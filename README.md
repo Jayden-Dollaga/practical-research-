@@ -1,7 +1,5 @@
 ## **CHAPTER 1**
 
-### **THE PROBLEM AND ITS BACKGROUND**
-
 ### **Background of the Study**
 
 Information and Communication Technology (ICT) education plays a vital role in preparing students for technology-driven careers, especially in fields where problem-solving, logical reasoning, and technical skills are essential. One of the core components of ICT education is computer programming, which not only hones these skills but also encourages creativity, critical thinking, and the ability to systematically troubleshoot problems. Despite its benefits, many ICT students encounter challenges in learning programming, such as understanding complex concepts, debugging errors, and managing multiple programming tasks simultaneously. These difficulties can negatively affect students’ motivation, confidence, and academic performance, and may even influence their decision to continue pursuing ICT-related studies. Therefore, examining students’ experiences and motivation in programming is crucial to providing better guidance, instructional strategies, and learning support tailored to their needs.
