@@ -33,10 +33,9 @@ This study is anchored on the idea that students’ learning experiences influen
 
 ---
 
-### **Objectives of the Study**
+### *Objectives of the Study* "removed"
 
 The general objective of this study is to examine the experiences and motivation of Senior High School ICT students in learning programming.
-
 Specifically, this study aims to:
 
 1. Describe the learning experiences of ICT students in programming.
