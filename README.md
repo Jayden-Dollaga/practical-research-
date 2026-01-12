@@ -32,6 +32,7 @@ Specifically, it seeks to answer the following questions:
 This study is anchored on the idea that students’ learning experiences influence their motivation in learning programming. The independent variables include students’ prior exposure to programming, learning challenges, and classroom experiences. These factors affect the dependent variable, which is the students’ motivation in learning programming. Motivation, in turn, influences students’ engagement and learning outcomes in ICT subjects.
 
 ---
+
 ### **Objectives of the Study**
 
 The general objective of this study is to examine the experiences and motivation of Senior High School ICT students in learning programming.
@@ -84,3 +85,5 @@ This study focuses on the experiences and motivation of Senior High School stude
 ## **REVIEW OF RELATED LITERATURE**
 
 This chapter presents related foreign and local studies that support the present research and provide background information on ICT students’ experiences and motivation in learning programming.
+
+---
