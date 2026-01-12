@@ -87,7 +87,7 @@ This chapter presents related foreign and local studies that support the present
 
 ---
 
-## **Foreign Studies**
+#### **Foreign Studies**
 
 Al-Kabi, Alsmadi, and Alnaser (2019) examined the motivation of ICT students with and without prior programming experience. The study revealed that students who learned programming earlier showed higher motivation and engagement, while beginners relied more on external motivation. The researchers concluded that prior experience significantly affects learning outcomes in ICT education.
 
@@ -101,7 +101,7 @@ Gomes and Mendes (2007) explored factors contributing to failure in introductory
 
 ---
 
-## **Local Studies**
+#### **Local Studies**
 
 A study conducted at ACLC Antipolo during the school year 2023–2024 examined Senior High School ICT students’ experiences in learning basic programming. The findings showed that students viewed programming as beneficial but faced challenges such as syntax errors and debugging difficulties. The study recommended increased hands-on practice.
 
