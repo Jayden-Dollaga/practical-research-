@@ -76,7 +76,7 @@ This chapter presents related foreign and local studies that support the present
 
 #### **Foreign Studies**
 
-Kori, Pedaste, Leijen & Tõnisson (2016) examined ICT students’ motivation differences based on prior programming exposure. The research found that students who learned programming before university had higher motivation and better academic results than those who began programming only at university, suggesting that early experience influences learning success in ICT programs. **Retrieved from https://www.ijiet.org/vol6/709-T0021.pdf
+Kori, Pedaste, Leijen & Tõnisson (2016) examined ICT students’ motivation differences based on prior programming exposure. The research found that students who learned programming before university had higher motivation and better academic results than those who began programming only at university, suggesting that early experience influences learning success in ICT programs. **Retrieved from https://www.ijiet.org/vol6/709-T0021.pdf**
 
 Qian & Lehman (2017) reviewed misconceptions and other difficulties in introductory programming courses. They reported that novice learners often struggle with syntax errors, conceptual misunderstandings, and strategic knowledge application, all of which hinder learning progress and reduce confidence. **Retrieved from https://dl.acm.org/doi/10.1145/3077618**
 
@@ -84,14 +84,14 @@ A study published in Frontiers in Education (2022) showed that students’ intri
 
 Abdunabi (2024) found that programming self-efficacy and motivation predict academic success in ICT courses. Students with higher confidence and motivation demonstrated better performance and persistence in programming tasks. **Retrieved from https://files.eric.ed.gov/fulltext/EJ1448912.pdf**
 
-Cheah (2020) conducted a systematic review of programming learning difficulties and found that lack of problem-solving skills, poor instructional materials, and limited hands-on support contribute to learners’ struggles, which negatively affect motivation and engagement. "
+Cheah (2020) conducted a systematic review of programming learning difficulties and found that lack of problem-solving skills, poor instructional materials, and limited hands-on support contribute to learners’ struggles, which negatively affect motivation and engagement. 
 **Retrieved from https://doi.org/10.30935/cedtech/8247**
 
 ---
 
 #### **Local Studies**
 
-A research study at Palawan National School investigated the challenges that Grade 12 ICT programming students face, particularly in handling syntax errors and debugging activities. It found that these problems reduce students’ engagement and make learning more difficult, concluding that more practice and supportive tools are needed to improve their programming skills. "
+A research study at Palawan National School investigated the challenges that Grade 12 ICT programming students face, particularly in handling syntax errors and debugging activities. It found that these problems reduce students’ engagement and make learning more difficult, concluding that more practice and supportive tools are needed to improve their programming skills. 
 **Retrieved from https://www.scribd.com/document/881677576/CHAPTER-1**
 
 Another local study on ICT students in Pasay City South High School identified multiple programming struggles among Grade 11 learners, such as difficulty fixing errors and maintaining motivation. The researchers recommended increased practice and stronger instructional support to help students overcome these barriers. **Retrieved from https://www.scribd.com/document/884907445/Group-4-Practical-Research-1-2**
