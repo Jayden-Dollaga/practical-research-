@@ -76,28 +76,30 @@ This chapter presents related foreign and local studies that support the present
 
 #### **Foreign Studies**
 
-Kori, Pedaste, Leijen & Tõnisson (2016) examined ICT students’ motivation differences based on prior programming exposure. The research found that students who learned programming before university had higher motivation and better academic results than those who began programming only at university, suggesting that early experience influences learning success in ICT programs. "https://www.ijiet.org/vol6/709-T0021.pdf"
+Kori, Pedaste, Leijen & Tõnisson (2016) examined ICT students’ motivation differences based on prior programming exposure. The research found that students who learned programming before university had higher motivation and better academic results than those who began programming only at university, suggesting that early experience influences learning success in ICT programs. **Retrieved from https://www.ijiet.org/vol6/709-T0021.pdf
 
-Qian & Lehman (2017) reviewed misconceptions and other difficulties in introductory programming courses. They reported that novice learners often struggle with syntax errors, conceptual misunderstandings, and strategic knowledge application, all of which hinder learning progress and reduce confidence. "https://dl.acm.org/doi/10.1145/3077618"
+Qian & Lehman (2017) reviewed misconceptions and other difficulties in introductory programming courses. They reported that novice learners often struggle with syntax errors, conceptual misunderstandings, and strategic knowledge application, all of which hinder learning progress and reduce confidence. **Retrieved from https://dl.acm.org/doi/10.1145/3077618**
 
-A study published in Frontiers in Education (2022) showed that students’ intrinsic and extrinsic motivations affected their engagement in programming and computational thinking. Prior programming experience was strongly linked to higher intrinsic  and better learning outcomes. "https://www.frontiersin.org/articles/10.3389/feduc.2022.948783/full"
+A study published in Frontiers in Education (2022) showed that students’ intrinsic and extrinsic motivations affected their engagement in programming and computational thinking. Prior programming experience was strongly linked to higher intrinsic  and better learning outcomes. **Retrieved from https://www.frontiersin.org/articles/10.3389/feduc.2022.948783/full**
 
-Abdunabi (2024) found that programming self-efficacy and motivation predict academic success in ICT courses. Students with higher confidence and motivation demonstrated better performance and persistence in programming tasks. "https://files.eric.ed.gov/fulltext/EJ1448912.pdf"
+Abdunabi (2024) found that programming self-efficacy and motivation predict academic success in ICT courses. Students with higher confidence and motivation demonstrated better performance and persistence in programming tasks. **Retrieved from https://files.eric.ed.gov/fulltext/EJ1448912.pdf**
 
-Cheah (2020) conducted a systematic review of programming learning difficulties and found that lack of problem-solving skills, poor instructional materials, and limited hands-on support contribute to learners’ struggles, which negatively affect motivation and engagement. "https://doi.org/10.30935/cedtech/8247"
+Cheah (2020) conducted a systematic review of programming learning difficulties and found that lack of problem-solving skills, poor instructional materials, and limited hands-on support contribute to learners’ struggles, which negatively affect motivation and engagement. "
+**Retrieved from https://doi.org/10.30935/cedtech/8247**
 
 ---
 
 #### **Local Studies**
 
-A research study at Palawan National School investigated the challenges that Grade 12 ICT programming students face, particularly in handling syntax errors and debugging activities. It found that these problems reduce students’ engagement and make learning more difficult, concluding that more practice and supportive tools are needed to improve their programming skills. "https://www.scribd.com/document/881677576/CHAPTER-1"
+A research study at Palawan National School investigated the challenges that Grade 12 ICT programming students face, particularly in handling syntax errors and debugging activities. It found that these problems reduce students’ engagement and make learning more difficult, concluding that more practice and supportive tools are needed to improve their programming skills. "
+**Retrieved from https://www.scribd.com/document/881677576/CHAPTER-1**
 
-Another local study on ICT students in Pasay City South High School identified multiple programming struggles among Grade 11 learners, such as difficulty fixing errors and maintaining motivation. The researchers recommended increased practice and stronger instructional support to help students overcome these barriers. "https://www.scribd.com/document/884907445/Group-4-Practical-Research-1-2"
+Another local study on ICT students in Pasay City South High School identified multiple programming struggles among Grade 11 learners, such as difficulty fixing errors and maintaining motivation. The researchers recommended increased practice and stronger instructional support to help students overcome these barriers. **Retrieved from https://www.scribd.com/document/884907445/Group-4-Practical-Research-1-2**
 
-A case study involving students at Philippine Science High School examined programming competence and found that while learners showed strong overall capability, they still faced obstacles with syntax and debugging that affected their confidence and learning experience. "https://www.scribd.com/document/847572853/Evaluating-Computer-Programming-Competence-of-Selected-Grade-9-Students-A-Case-Study"
+A case study involving students at Philippine Science High School examined programming competence and found that while learners showed strong overall capability, they still faced obstacles with syntax and debugging that affected their confidence and learning experience. **Retrieved from https://www.scribd.com/document/847572853/Evaluating-Computer-Programming-Competence-of-Selected-Grade-9-Students-A-Case-Study**
 
-Research conducted by Grade 11 ICT students in Caloocan explored students’ perspectives on coding and found that while most learners recognize the importance of programming skills, anxiety and lack of confidence can hinder their performance. "https://www.studocu.com/ph/document/young-achievers-school-of-caloocan-inc/research/practical-research-1/107949526"
+Research conducted by Grade 11 ICT students in Caloocan explored students’ perspectives on coding and found that while most learners recognize the importance of programming skills, anxiety and lack of confidence can hinder their performance. **Retrieved from https://www.studocu.com/ph/document/young-achievers-school-of-caloocan-inc/research/practical-research-1/107949526**
 
-Another study from St. Matthew Academy in Cavite reported that learning programming language has positive effects on students’ ICT skills and motivation, and emphasized that improved teaching strategies and resources would increase student engagement. "https://it.scribd.com/document/643893686/Research-Group-5"
+Another study from St. Matthew Academy in Cavite reported that learning programming language has positive effects on students’ ICT skills and motivation, and emphasized that improved teaching strategies and resources would increase student engagement. **Retrieved from https://it.scribd.com/document/643893686/Research-Group-5**
 
 ---
