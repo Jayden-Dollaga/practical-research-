@@ -101,9 +101,3 @@ Garcia (2019) investigated the learning experiences of ICT students in relation 
 Flores and Ramirez (2022) investigated the motivational factors to programming among Filipino ICT students. The results indicated that teaching strategies, learning resources, and peer support were influential in motivating students. This study recommended improving instructional approaches to increase student engagement.
 
 ---
-
-### **Synthesis of Related Literature**
-
-The review of foreign and local studies suggests that programming is still a challenging course for ICT students because of lack of experience, motivation, and practical exposure. Foreign studies emphasize prior experience and intrinsic motivation, whereas in local studies, the experiences shared by Filipino Senior High School ICT students also point out difficulties in syntax, logic, and debugging. These findings justify the need for a study that will investigate students' learning experiences and motivation in programming, to which this study will answer.
-
----
