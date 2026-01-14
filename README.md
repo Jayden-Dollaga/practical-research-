@@ -88,34 +88,34 @@ This chapter presents related foreign and local studies that support the present
 
 #### **Foreign Studies**
 
-Al-Kabi, Alsmadi, and Alnaser (2019) examined the motivation of ICT students with and without prior programming experience. The study revealed that students who learned programming earlier showed higher motivation and engagement, while beginners relied more on external motivation. The researchers concluded that prior experience significantly affects learning outcomes in ICT education.
+Al-Kabi, Alsmadi & Alnaser's study in the year 2019 checked motivation among ICT students with and without prior programming experience. Students who had started programming early showed higher motivation and engagement than beginners, depending on external motivation. The authors came to the conclusion that prior experience significantly affects learning outcomes of ICT education.
 
-Ryan and Deci (2017) explained the role of motivation in learning through Self-Determination Theory. Their study found that intrinsically motivated students tend to perform better and show greater persistence in complex subjects such as programming. The researchers emphasized that relying solely on external motivation may hinder long-term learning success.
+Ryan and Deci (2017) explained the role of motivation in learning using Self-Determination Theory. Their study showed that intrinsically motivated students usually perform better and can persist longer in difficult subjects like programming. They also pointed out that reliance on only external motivation can undermine long-term learning success.
 
-Kinnunen and Malmi (2016) investigated learning difficulties experienced by novice programming students. The findings showed that students commonly struggled with understanding program logic, syntax, and debugging, which negatively affected their confidence and motivation. The study suggested improving instructional support to address these challenges.
+Kinnunen and Malmi (2016) investigated the learning difficulties experienced by novice programming students. The results showed that students often face difficulties with program logic, syntax, and debugging, leading to a detrimental impact on their confidence and motivation. This study concludes with recommendations for increased instructional support.
 
-Qian and Lehman (2018) conducted a review of studies on students’ learning of programming. The results indicated that many learners experience cognitive overload and frustration when learning programming concepts, especially without proper guidance. The researchers emphasized the importance of effective teaching strategies to enhance students’ learning experiences.
+A review of the studies conducted on students' learning about programming was done by Qian and Lehman (2018). The studies reviewed had revealed that most of the learners experience cognitive overload and frustration while learning programming concepts, especially if not guided properly. They emphasized that effective teaching methods should be employed in order to enhance learning experiences among students.
 
-Bosse and Gerosa (2017) explored factors influencing students’ success and failure in introductory programming courses. The study revealed that lack of practice, low motivation, and insufficient feedback were major contributors to students’ difficulties. The authors recommended curriculum improvements and increased hands-on activities to reduce failure rates.
+Bosse and Gerosa's study, published in 2017, dealt with reasons why students succeed or fail in introductory classes on programming. In this research, the following factors contributed to students' failure: a lack of practice, low motivation, and scarcity of feedback. The authors recommended curriculum improvements and increased hands-on activities as a way to help reduce failure rates.
 
 ---
 
 #### **Local Studies**
 
-A study conducted at ACLC Antipolo during the school year 2023–2024 examined Senior High School ICT students’ experiences in learning basic programming. The findings showed that students viewed programming as beneficial but faced challenges such as syntax errors and debugging difficulties. The study recommended increased hands-on practice.
+A study conducted in the 2023-2024 academic year at ACLC Antipolo analyzed the experiences of Senior High School ICT students when it came to learning basic programming. It was found that students found programming helpful but faced problems regarding syntax errors and debugging. It is recommended that more practice should take place.
 
-Dela Cruz and Santos (2021) investigated programming challenges among Senior High School ICT students in the Philippines. Results indicated that students struggled with understanding program logic due to limited exposure and practice. The study emphasized the importance of guided instruction to improve motivation.
+Dela Cruz and Santos (2021) studied the challenges in programming among ICT students in the Senior High School level in the Philippines. The results indicated that the students were challenged in understanding program logic due to limited exposure and practice. It was concluded that guided instruction should be used to improve motivation.
 
-Reyes and Molina (2020) explored students’ attitudes toward programming in public senior high schools. The study found that while students were interested in ICT, many experienced anxiety and low confidence when dealing with programming tasks. Supportive learning environments were recommended.
+Reyes and Molina  (2020) investigated the attitude of students towards programming at public senior high schools. Results indicated that while students were interested in ICT generally, they did feel anxious and quite unconfident in handling programming activities. The authors recommended a supportive learning environment.
 
-Garcia (2019) examined the learning experiences of ICT students in relation to programming performance. The findings showed that students with positive learning experiences demonstrated higher motivation and better academic results. The study highlighted the role of teachers in shaping these experiences.
+Garcia (2019) investigated the learning experiences of ICT students in relation to programming performance. The results showed that the students with positive learning experiences demonstrated higher motivation and better school performances. The study identified the role of the teacher in shaping such experiences.
 
-Flores and Ramirez (2022) studied factors affecting motivation in programming among Filipino ICT students. The results revealed that teaching strategies, learning resources, and peer support significantly influenced students’ motivation. The study recommended improving instructional approaches to enhance engagement.
+Flores and Ramirez (2022) investigated the motivational factors to programming among Filipino ICT students. The results indicated that teaching strategies, learning resources, and peer support were influential in motivating students. This study recommended improving instructional approaches to increase student engagement.
 
 ---
 
 ### **Synthesis of Related Literature**
 
-The reviewed foreign and local studies show that programming remains a challenging subject for ICT students due to factors such as lack of experience, motivation, and practical exposure. Foreign studies emphasize the importance of prior experience and intrinsic motivation, while local studies confirm that Filipino Senior High School ICT students face similar difficulties, particularly in syntax, logic, and debugging. These findings support the need to examine students’ learning experiences and motivation in programming, which the present study seeks to address.
+The review of foreign and local studies suggests that programming is still a challenging course for ICT students because of lack of experience, motivation, and practical exposure. Foreign studies emphasize prior experience and intrinsic motivation, whereas in local studies, the experiences shared by Filipino Senior High School ICT students also point out difficulties in syntax, logic, and debugging. These findings justify the need for a study that will investigate students' learning experiences and motivation in programming, to which this study will answer.
 
 ---
