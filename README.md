@@ -88,15 +88,15 @@ This chapter presents related foreign and local studies that support the present
 
 #### **Foreign Studies**
 
-Al-Kabi, Alsmadi & Alnaser's study in the year 2019 checked motivation among ICT students with and without prior programming experience. Students who had started programming early showed higher motivation and engagement than beginners, depending on external motivation. The authors came to the conclusion that prior experience significantly affects learning outcomes of ICT education.
+Kori, Pedaste, Leijen & Tõnisson (2016) examined ICT students’ motivation differences based on prior programming exposure. The research found that students who learned programming before university had higher motivation and better academic results than those who began programming only at university, suggesting that early experience influences learning success in ICT programs. "https://www.ijiet.org/vol6/709-T0021.pdf"
 
-Ryan and Deci (2017) explained the role of motivation in learning using Self-Determination Theory. Their study showed that intrinsically motivated students usually perform better and can persist longer in difficult subjects like programming. They also pointed out that reliance on only external motivation can undermine long-term learning success.
+Qian & Lehman (2017) reviewed misconceptions and other difficulties in introductory programming courses. They reported that novice learners often struggle with syntax errors, conceptual misunderstandings, and strategic knowledge application, all of which hinder learning progress and reduce confidence. "https://dl.acm.org/doi/10.1145/3077618"
 
-Kinnunen and Malmi (2016) investigated the learning difficulties experienced by novice programming students. The results showed that students often face difficulties with program logic, syntax, and debugging, leading to a detrimental impact on their confidence and motivation. This study concludes with recommendations for increased instructional support.
+A 2022 study published in Frontiers in Education showed that students’ intrinsic and extrinsic motivations affected their engagement in programming and computational thinking. Prior programming experience was strongly linked to higher intrinsic  and better learning outcomes. "https://www.frontiersin.org/articles/10.3389/feduc.2022.948783/full"
 
-A review of the studies conducted on students' learning about programming was done by Qian and Lehman (2018). The studies reviewed had revealed that most of the learners experience cognitive overload and frustration while learning programming concepts, especially if not guided properly. They emphasized that effective teaching methods should be employed in order to enhance learning experiences among students.
+Abdunabi (2024) found that programming self-efficacy and motivation predict academic success in ICT courses. Students with higher confidence and motivation demonstrated better performance and persistence in programming tasks. "https://files.eric.ed.gov/fulltext/EJ1448912.pdf"
 
-Bosse and Gerosa's study, published in 2017, dealt with reasons why students succeed or fail in introductory classes on programming. In this research, the following factors contributed to students' failure: a lack of practice, low motivation, and scarcity of feedback. The authors recommended curriculum improvements and increased hands-on activities as a way to help reduce failure rates.
+Cheah (2020) conducted a systematic review of programming learning difficulties and found that lack of problem-solving skills, poor instructional materials, and limited hands-on support contribute to learners’ struggles, which negatively affect motivation and engagement. "https://doi.org/10.30935/cedtech/8247"
 
 ---
 
