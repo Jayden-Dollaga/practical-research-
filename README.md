@@ -80,7 +80,7 @@ Kori, Pedaste, Leijen & Tõnisson (2016) examined ICT students’ motivation dif
 
 Qian & Lehman (2017) reviewed misconceptions and other difficulties in introductory programming courses. They reported that novice learners often struggle with syntax errors, conceptual misunderstandings, and strategic knowledge application, all of which hinder learning progress and reduce confidence. "https://dl.acm.org/doi/10.1145/3077618"
 
-A 2022 study published in Frontiers in Education showed that students’ intrinsic and extrinsic motivations affected their engagement in programming and computational thinking. Prior programming experience was strongly linked to higher intrinsic  and better learning outcomes. "https://www.frontiersin.org/articles/10.3389/feduc.2022.948783/full"
+A study published in Frontiers in Education (2022) showed that students’ intrinsic and extrinsic motivations affected their engagement in programming and computational thinking. Prior programming experience was strongly linked to higher intrinsic  and better learning outcomes. "https://www.frontiersin.org/articles/10.3389/feduc.2022.948783/full"
 
 Abdunabi (2024) found that programming self-efficacy and motivation predict academic success in ICT courses. Students with higher confidence and motivation demonstrated better performance and persistence in programming tasks. "https://files.eric.ed.gov/fulltext/EJ1448912.pdf"
 
