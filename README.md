@@ -90,14 +90,14 @@ Cheah (2020) conducted a systematic review of programming learning difficulties 
 
 #### **Local Studies**
 
-A study conducted in the 2023-2024 academic year at ACLC Antipolo analyzed the experiences of Senior High School ICT students when it came to learning basic programming. It was found that students found programming helpful but faced problems regarding syntax errors and debugging. It is recommended that more practice should take place.
+A research study at Palawan National School investigated the challenges that Grade 12 ICT programming students face, particularly in handling syntax errors and debugging activities. It found that these problems reduce students’ engagement and make learning more difficult, concluding that more practice and supportive tools are needed to improve their programming skills. "https://www.scribd.com/document/881677576/CHAPTER-1"
 
-Dela Cruz and Santos (2021) studied the challenges in programming among ICT students in the Senior High School level in the Philippines. The results indicated that the students were challenged in understanding program logic due to limited exposure and practice. It was concluded that guided instruction should be used to improve motivation.
+Another local study on ICT students in Pasay City South High School identified multiple programming struggles among Grade 11 learners, such as difficulty fixing errors and maintaining motivation. The researchers recommended increased practice and stronger instructional support to help students overcome these barriers. "https://www.scribd.com/document/884907445/Group-4-Practical-Research-1-2"
 
-Reyes and Molina  (2020) investigated the attitude of students towards programming at public senior high schools. Results indicated that while students were interested in ICT generally, they did feel anxious and quite unconfident in handling programming activities. The authors recommended a supportive learning environment.
+A case study involving students at Philippine Science High School examined programming competence and found that while learners showed strong overall capability, they still faced obstacles with syntax and debugging that affected their confidence and learning experience. "https://www.scribd.com/document/847572853/Evaluating-Computer-Programming-Competence-of-Selected-Grade-9-Students-A-Case-Study"
 
-Garcia (2019) investigated the learning experiences of ICT students in relation to programming performance. The results showed that the students with positive learning experiences demonstrated higher motivation and better school performances. The study identified the role of the teacher in shaping such experiences.
+Research conducted by Grade 11 ICT students in Caloocan explored students’ perspectives on coding and found that while most learners recognize the importance of programming skills, anxiety and lack of confidence can hinder their performance. "https://www.studocu.com/ph/document/young-achievers-school-of-caloocan-inc/research/practical-research-1/107949526"
 
-Flores and Ramirez (2022) investigated the motivational factors to programming among Filipino ICT students. The results indicated that teaching strategies, learning resources, and peer support were influential in motivating students. This study recommended improving instructional approaches to increase student engagement.
+Another study from St. Matthew Academy in Cavite reported that learning programming language has positive effects on students’ ICT skills and motivation, and emphasized that improved teaching strategies and resources would increase student engagement. "https://it.scribd.com/document/643893686/Research-Group-5"
 
 ---
