@@ -90,13 +90,13 @@ This chapter presents related foreign and local studies that support the present
 
 Al-Kabi, Alsmadi, and Alnaser (2019) examined the motivation of ICT students with and without prior programming experience. The study revealed that students who learned programming earlier showed higher motivation and engagement, while beginners relied more on external motivation. The researchers concluded that prior experience significantly affects learning outcomes in ICT education.
 
-Ryan and Deci (2017) discussed the role of motivation in academic learning using Self-Determination Theory. Their findings showed that intrinsically motivated students perform better and persist longer in complex subjects such as programming. The study emphasized that external motivation alone is insufficient for sustained learning.
+Ryan and Deci (2017) explained the role of motivation in learning through Self-Determination Theory. Their study found that intrinsically motivated students tend to perform better and show greater persistence in complex subjects such as programming. The researchers emphasized that relying solely on external motivation may hinder long-term learning success.
 
-Lahtinen, Ala-Mutka, and Järvinen (2005) investigated difficulties encountered by students in learning programming. Results showed that beginners struggled most with syntax, logic formulation, and debugging. These difficulties negatively affected students’ confidence and motivation.
+Kinnunen and Malmi (2016) investigated learning difficulties experienced by novice programming students. The findings showed that students commonly struggled with understanding program logic, syntax, and debugging, which negatively affected their confidence and motivation. The study suggested improving instructional support to address these challenges.
 
-Robins, Rountree, and Rountree (2003) studied how novice programmers learn programming concepts. The study found that many students experience cognitive overload when learning programming, leading to confusion and frustration. The researchers emphasized the need for supportive teaching strategies to improve learning experiences.
+Qian and Lehman (2018) conducted a review of studies on students’ learning of programming. The results indicated that many learners experience cognitive overload and frustration when learning programming concepts, especially without proper guidance. The researchers emphasized the importance of effective teaching strategies to enhance students’ learning experiences.
 
-Gomes and Mendes (2007) explored factors contributing to failure in introductory programming courses. The study revealed that lack of practice, poor problem-solving skills, and low motivation were major reasons for students’ difficulties. The authors suggested curriculum improvements to reduce dropout rates.
+Bosse and Gerosa (2017) explored factors influencing students’ success and failure in introductory programming courses. The study revealed that lack of practice, low motivation, and insufficient feedback were major contributors to students’ difficulties. The authors recommended curriculum improvements and increased hands-on activities to reduce failure rates.
 
 ---
 
