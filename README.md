@@ -1,4 +1,4 @@
-## **An Exploration on ICT Student Learning Experience in basic programming at Senior High School's Located in Naic**
+## **An Exploration of ICT Students’ Learning Experiences in Basic Programming at Senior High Schools Located in Naic**
 
 ## **CHAPTER 1**
 
