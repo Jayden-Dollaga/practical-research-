@@ -82,6 +82,8 @@ This study focuses on the experiences and motivation of Senior High School stude
 
 ### **Definition of Terms**
 
+10 and a-z (Alfa vertical)
+
 **ICT (Information and Communication Technology)** – Refers to the academic strand that focuses on computer systems, programming, and digital technologies.
 
 **Programming** – The process of creating instructions that a computer follows to perform specific tasks.
