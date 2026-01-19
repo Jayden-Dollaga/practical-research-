@@ -29,11 +29,30 @@ Specifically, it seeks to answer the following questions:
 
 ### **Conceptual Framework**
 
-This study is anchored on the idea that students’ learning experiences influence their motivation in learning programming. The independent variables include students’ prior exposure to programming, learning challenges, and classroom experiences. These factors affect the dependent variable, which is the students’ motivation in learning programming. Motivation, in turn, influences students’ engagement and learning outcomes in ICT subjects.
+This study is anchored on the idea that students’ learning experiences significantly influence their motivation in learning programming. Learning programming in Information and Communication Technology (ICT) subjects requires not only technical skills but also sustained motivation and positive learning experiences. When students encounter difficulties or lack prior exposure, their motivation may decrease, which can affect their engagement and overall learning outcomes.
 
-input:
-process:
-output:
+The **independent variables** of the study consist of students’ prior exposure to programming, learning challenges encountered during programming activities, and classroom learning experiences. Prior exposure refers to whether students have experience with programming before taking ICT subjects. Learning challenges include difficulties in understanding program logic, syntax errors, and debugging tasks. Classroom learning experiences involve teaching strategies, availability of learning resources, and the level of support provided by teachers.
+
+These independent variables undergo a **process** that involves students’ interaction with programming lessons, instructional strategies used by teachers, and the students’ engagement in hands-on programming activities. Through this process, students form perceptions, attitudes, and confidence toward programming, which shape their motivation.
+
+The **dependent variable** of the study is students’ motivation in learning programming. Motivation is reflected in students’ interest, persistence, and willingness to engage in programming tasks. Increased motivation is expected to lead to better engagement and improved learning outcomes in ICT subjects.
+
+**Input**
+
+* Prior exposure to programming
+* Learning challenges in programming (syntax errors, logic formulation, debugging)
+* Classroom learning experiences (teaching strategies, learning resources, teacher support)
+
+**Process**
+
+* Teaching and learning strategies in programming
+* Student engagement in hands-on programming activities
+* Interaction between students and instructional support
+
+**Output**
+
+* Students’ motivation in learning programming
+* Improved engagement and learning outcomes in ICT subjects
 
 ---
 
