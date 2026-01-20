@@ -29,13 +29,13 @@ Specifically, it seeks to answer the following questions:
 
 ### **Conceptual Framework**
 
-This study is anchored on the idea that students’ learning experiences significantly influence their motivation in learning programming. Learning programming in Information and Communication Technology (ICT) subjects requires not only technical skills but also sustained motivation and positive learning experiences. When students encounter difficulties or lack prior exposure, their motivation may decrease, which can affect their engagement and overall learning outcomes.
+This study is anchored on the idea that the learning experiences influence the students’ motivational in learning the Programming. The motivation of the students towards learning programming is very crucial in studying ICT subjects. When learners face challenges or a lack of background knowledge, their motivation can suffer in programming learning.
 
-The **independent variables** of the study consist of students’ prior exposure to programming, learning challenges encountered during programming activities, and classroom learning experiences. Prior exposure refers to whether students have experience with programming before taking ICT subjects. Learning challenges include difficulties in understanding program logic, syntax errors, and debugging tasks. Classroom learning experiences involve teaching strategies, availability of learning resources, and the level of support provided by teachers.
+The prior experience of students with computer programming, the learning problems caused by computer programming activities and their classroom learning experiences are the independent variables of the study. Prior exposure refers to the programming experience students have prior to undertaking ICT subjects. The learning challenges include trouble with program logic, and syntax error behaviour and debugging. Moreover, the methods teachers utilize, learning resources available, and support provided by teacher determines the experience inside a classroom.
 
-These independent variables undergo a **process** that involves students’ interaction with programming lessons, instructional strategies used by teachers, and the students’ engagement in hands-on programming activities. Through this process, students form perceptions, attitudes, and confidence toward programming, which shape their motivation.
+An independent variable gives students a lesson on programming, then the teacher applies different methods of teaching, and the student also participates in computer programming. Studetns get motivated and develop perception, attitude, and confidence towards programming.
 
-The **dependent variable** of the study is students’ motivation in learning programming. Motivation is reflected in students’ interest, persistence, and willingness to engage in programming tasks. Increased motivation is expected to lead to better engagement and improved learning outcomes in ICT subjects.
+The dependent variable of this study is the motivation of student learning programming.  The student will show his or her motivation through interest, persistence and willingness to engage in tasks related to programming.  Additionally, enhancing students’ motivation may help them become more engaged and learn more in an ICT subject. 
 
 **Input**
 
@@ -56,7 +56,10 @@ The **dependent variable** of the study is students’ motivation in learning pr
 
 **Explanation**
 
-????????
+The chosen input variables based on which we can explore the issues affecting the learning of students in programming. The prior programming experience would be considered as an input variable since we assume the students are either able to master the basic programming concepts or they can be further exposed to the programming concepts and practice more. The issues students face concerning syntax errors, developing logic and debugging problems are also considered as an input variable as they are one of the problems ICT students face. Their confidence and interest can be directly impacted in programming. The classroom experiences constitute an input variable because they influence students’ understanding of the teaching content and the teacher’s attempts at rectifying their programming learning difficulties. For example, the teaching styles, availability of teaching aids, and teacher support can all influence students’ understanding.
+
+The process is concerned with how the recognized input factors react in teaching and learning activities. Teaching and learning methods are used to show how teachers engage students in learning programming concepts and problem solving. Likewise, programming practical activities student experience exemplifies students’ involvement in programming practical activities. Engaging in hands-on tasks helps us rely on our past experiences while honing our skills. The concept of student teaching interaction and teacher support is intended to show the way that support systems help the learners in learning in overcoming difficulties. All of them about how the experiences of students are created in classrooms. The impact that the experiences of students have on learners’ motivation in learning further programming is explained.
+
 ---
 
 ### **Significance of the Study**
