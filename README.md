@@ -82,15 +82,25 @@ This study focuses on the experiences and motivation of Senior High School stude
 
 ### **Definition of Terms**
 
-minimum 10 and a-z (Alfa vertically)
+**Academic Performance** – Refers to the level of achievement of students in ICT subjects, particularly in programming-related activities and assessments.
+
+**Classroom Learning Experience** – The teaching methods, learning activities, and instructional support encountered by students during programming lessons.
+
+**Debugging** – The process of identifying and correcting errors in a computer program.
 
 **ICT (Information and Communication Technology)** – Refers to the academic strand that focuses on computer systems, programming, and digital technologies.
 
-**Programming** – The process of creating instructions that a computer follows to perform specific tasks.
+**Learning Experience** – The students’ encounters, challenges, and perceptions while studying programming.
 
 **Motivation** – The factors that influence students’ interest, effort, and persistence in learning programming.
 
-**Learning Experience** – The students’ encounters, challenges, and perceptions while studying programming.
+**Programming** – The process of creating instructions that a computer follows to perform specific tasks.
+
+**Programming Challenges** – The difficulties students experience in learning programming, such as syntax errors, logic formulation, and debugging.
+
+**Senior High School Students** – Learners enrolled in Grades 11 and 12 under the ICT strand.
+
+**Syntax Errors** – Mistakes in the structure or rules of a programming language that prevent a program from running correctly.
 
 ---
 
