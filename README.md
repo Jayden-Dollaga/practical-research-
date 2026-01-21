@@ -12,6 +12,10 @@ In the local context, a study conducted at ACLC Antipolo during the school year 
 
 Given these findings, it is important to further examine the experiences and motivation of ICT students in learning programming. Understanding the factors that influence students’ learning experiences can help improve teaching strategies and provide better support for learners. This study aims to explore the experiences and motivation of Senior High School ICT students in programming to better understand the challenges they face and how these affect their learning.
 
+**Retrieved from https://www.ijiet.org/vol6/709-T0021.pdf**
+
+**Retrieved from https://www.studocu.com/ph/document/ama-computer-learning-center/information-system/pr-group-1/97739258?sid=01764741263&fbclid=IwY2xjawPdoKlleHRuA2FlbQIxMABicmlkETFvR29HT01vc3FRZ0dJRWNZc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHn_c0sIP0dJKCpC2yp9wM54ag0lMFbOHvCF6iQCMo1cBJVFcdtvE2LskpC0c_aem_JKpVfGzDUfAIvav9Wo-TEg&shared=n**
+
 ---
 
 ### **Statement of the Problem**
