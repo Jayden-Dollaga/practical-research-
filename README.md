@@ -23,11 +23,13 @@ Given these findings, it is important to further examine the experiences and mot
 This study aims to explore the experiences and motivation of Senior High School ICT students in learning programming.
 
 Specifically, it seeks to answer the following questions:
-
-1. What are the learning experiences of ICT students in programming?
-2. What challenges do ICT students encounter while learning programming?
-3. What motivates ICT students to learn programming?
-4. How do students’ experiences influence their motivation in learning programming?
+1. What is the demographic profile of the respondents in terms of:
+  a. Age
+  b. Gender
+2. What are the learning experiences of ICT students in programming?
+3. What challenges do ICT students encounter while learning programming?
+4. What motivates ICT students to learn programming?
+5. How do students’ experiences influence their motivation in learning programming?
 
 ---
 
@@ -60,9 +62,11 @@ The dependent variable of this study is the motivation of student learning progr
 
 **Explanation**
 
-The chosen input variables based on which we can explore the issues affecting the learning of students in programming. The prior programming experience would be considered as an input variable since we assume the students are either able to master the basic programming concepts or they can be further exposed to the programming concepts and practice more. The issues students face concerning syntax errors, developing logic and debugging problems are also considered as an input variable as they are one of the problems ICT students face. Their confidence and interest can be directly impacted in programming. The classroom experiences constitute an input variable because they influence students’ understanding of the teaching content and the teacher’s attempts at rectifying their programming learning difficulties. For example, the teaching styles, availability of teaching aids, and teacher support can all influence students’ understanding.
+The **Input-Process-Output (IPO)** model is used in this research to explain the process by which different factors affect the motivation of ICT students learning programming. The **input variables** are the factors that could potentially influence the learning process of students learning programming. These factors include **prior experience with programming**, **learning difficulties**, and **learning experiences in the classroom**. Prior experience with programming is considered an input variable because students come from different backgrounds, and some students may have already gained knowledge of basic programming concepts, while others need further exposure and practice. Learning difficulties, including syntax errors, difficulties in expressing logic, and debugging, are also considered input variables because these are some of the difficulties that ICT students face, and if not addressed, could have a negative impact on their confidence and interest in programming. Learning experiences in the classroom, including teaching approaches, learning resources, and support from teachers, are also considered input variables because they have a direct impact on how students understand programming concepts and how their learning difficulties are addressed.
 
-The process is concerned with how the recognized input factors react in teaching and learning activities. Teaching and learning methods are used to show how teachers engage students in learning programming concepts and problem solving. Likewise, programming practical activities student experience exemplifies students’ involvement in programming practical activities. Engaging in hands-on tasks helps us rely on our past experiences while honing our skills. The concept of student teaching interaction and teacher support is intended to show the way that support systems help the learners in learning in overcoming difficulties. All of them about how the experiences of students are created in classrooms. The impact that the experiences of students have on learners’ motivation in learning further programming is explained.
+The **process** refers to how these input variables interact during the instruction and acquisition of programming knowledge. This involves the **teaching and learning processes** used by the instructors, student **participation in hands-on programming exercises**, and the **interaction between students and teaching assistance**. Through this process, students are able to apply their prior knowledge, develop programming skills, and attempt to overcome difficulties in learning. Hands-on exercises allow students to develop their skills through practice, while instructor assistance and support help students cope with difficulties and maintain their motivation. These classroom interactions influence students’ learning experiences and their perceptions of programming.
+
+> the **output** is not yet specified because the study is still in the process of gathering data. The output will be specified after the completion of interviews and the analysis of students’ responses. However, the framework argues that the interaction between the input and process variables will provide understanding of students’ motivation in learning programming.
 
 ---
 
