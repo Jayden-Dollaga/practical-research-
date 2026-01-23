@@ -68,6 +68,8 @@ The process is concerned with how the recognized input factors react in teaching
 
 ### **Significance of the Study**
 
+This study was conducted to determine whether students require proper assistance in learning computer programming, to identify the reasons why many learners struggle with programming concepts, and to provide teachers with practical insights that may help reduce the number of failing students. Given the increasing importance of coding skills in today’s technology-driven society, this research also aims to help bridge gaps between classroom instruction and students’ actual learning experiences.
+
 The findings of this study may benefit the following:
 
 **Students.**
