@@ -12,15 +12,14 @@ In the local context, a study conducted at ACLC Antipolo during the school year 
 
 Given these findings, it is important to further examine the experiences and motivation of ICT students in learning programming. Understanding the factors that influence students’ learning experiences can help improve teaching strategies and provide better support for learners. This study aims to explore the experiences and motivation of Senior High School ICT students in programming to better understand the challenges they face and how these affect their learning.
 
-**Retrieved from https://www.ijiet.org/vol6/709-T0021.pdf**
-
-**Retrieved from https://www.studocu.com/ph/document/ama-computer-learning-center/information-system/pr-group-1/97739258?sid=01764741263&fbclid=IwY2xjawPdoKlleHRuA2FlbQIxMABicmlkETFvR29HT01vc3FRZ0dJRWNZc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHn_c0sIP0dJKCpC2yp9wM54ag0lMFbOHvCF6iQCMo1cBJVFcdtvE2LskpC0c_aem_JKpVfGzDUfAIvav9Wo-TEg&shared=n**
+**Sources:**
+- IJETI. (n.d.). *Article PDF*. https://www.ijiet.org/vol6/709-T0021.pdf
+- Studocu. (n.d.). *PR Group 1 document*. https://www.studocu.com/ph/document/ama-computer-learning-center/information-system/pr-group-1/97739258
 
 ---
 
 ### **Statement of the Problem**
-
-This study aims to explore the experiences and motivation of Senior High School ICT students in learning programming.
+This study aims to explore the experiences and motivation of Senior High School ICT students in learning programming. **It also considers the demographic characteristics of the respondents, such as age and gender, as these factors may influence students’ learning experiences, challenges, and motivation in programming.**
 
 Specifically, it seeks to answer the following questions:
 1. What is the demographic profile of the respondents in terms of:
@@ -54,6 +53,7 @@ The dependent variable of this study is the motivation of student learning progr
 * Teaching and learning strategies in programming
 * Student engagement in hands-on programming activities
 * Interaction between students and instructional support
+* Data gathering through survey questionnaires and interviews to assess students’ learning experiences, challenges, and motivation in programming.
 
 **Output**
 > my progress and not yet finalize
@@ -66,7 +66,7 @@ The **Input-Process-Output (IPO)** model is used in this research to explain the
 
 The **input variables** are the factors that could potentially influence the learning process of students learning programming. These factors include **prior experience with programming**, **learning difficulties**, and **learning experiences in the classroom**. Prior experience with programming is considered an input variable because students come from different backgrounds, and some students may have already gained knowledge of basic programming concepts, while others need further exposure and practice. Learning difficulties, including syntax errors, difficulties in expressing logic, and debugging, are also considered input variables because these are some of the difficulties that ICT students face, and if not addressed, could have a negative impact on their confidence and interest in programming. Learning experiences in the classroom, including teaching approaches, learning resources, and support from teachers, are also considered input variables because they have a direct impact on how students understand programming concepts and how their learning difficulties are addressed.
 
-The **process** refers to how these input variables interact during the instruction and acquisition of programming knowledge. This involves the **teaching and learning processes** used by the instructors, student **participation in hands-on programming exercises**, and the **interaction between students and teaching assistance**. Through this process, students are able to apply their prior knowledge, develop programming skills, and attempt to overcome difficulties in learning. Hands-on exercises allow students to develop their skills through practice, while instructor assistance and support help students cope with difficulties and maintain their motivation. These classroom interactions influence students’ learning experiences and their perceptions of programming.
+The **process** refers to how these input variables interact during the instruction and acquisition of programming knowledge. This involves the **teaching and learning processes** used by the instructors, student **participation in hands-on programming exercises**, and the **interaction between students and teaching assistance**. Through this process, students are able to apply their prior knowledge, develop programming skills, and attempt to overcome difficulties in learning. Hands-on exercises allow students to develop their skills through practice, while instructor assistance and support help students cope with difficulties and maintain their motivation. These classroom interactions influence students’ learning experiences and their perceptions of programming. As part of the process, data are gathered through survey questionnaires and interviews to obtain information on students’ demographic profile, learning experiences, challenges, and motivation in learning programming.
 
 > the **output** is not yet specified because the study is still in the process of gathering data. The output will be specified after the completion of interviews and the analysis of students’ responses. However, the framework argues that the interaction between the input and process variables will provide understanding of students’ motivation in learning programming.
 
@@ -132,27 +132,17 @@ This chapter presents related foreign and local studies that support the present
 #### **1.1** 
 Kori, Pedaste, Leijen & Tõnisson (2016) examined ICT students’ motivation differences based on prior programming exposure. The research found that students who learned programming before university had higher motivation and better academic results than those who began programming only at university, suggesting that early experience influences learning success in ICT programs. 
 
-**Retrieved from https://www.ijiet.org/vol6/709-T0021.pdf**
-
 #### **1.2** 
 Qian & Lehman (2017) reviewed misconceptions and other difficulties in introductory programming courses. They reported that novice learners often struggle with syntax errors, conceptual misunderstandings, and strategic knowledge application, all of which hinder learning progress and reduce confidence. 
-
-**Retrieved from https://dl.acm.org/doi/10.1145/3077618**
 
 #### **1.3** 
 A study published in Frontiers in Education (2022) showed that students’ intrinsic and extrinsic motivations affected their engagement in programming and computational thinking. Prior programming experience was strongly linked to higher intrinsic  and better learning outcomes. 
 
-**Retrieved from https://www.frontiersin.org/articles/10.3389/feduc.2022.948783/full**
-
 #### **1.4** 
 Abdunabi (2024) found that programming self-efficacy and motivation predict academic success in ICT courses. Students with higher confidence and motivation demonstrated better performance and persistence in programming tasks.
 
-**Retrieved from https://files.eric.ed.gov/fulltext/EJ1448912.pdf**
-
 #### **1.5** 
 Cheah (2020) conducted a systematic review of programming learning difficulties and found that lack of problem-solving skills, poor instructional materials, and limited hands-on support contribute to learners’ struggles, which negatively affect motivation and engagement. 
-
-**Retrieved from https://doi.org/10.30935/cedtech/8247**
 
 ---
 
@@ -161,26 +151,40 @@ Cheah (2020) conducted a systematic review of programming learning difficulties 
 #### **2.1** 
 Palawan National School (2023) investigated the challenges faced by Grade 12 ICT students in learning programming, particularly in handling syntax errors and debugging activities. The study found that these problems reduced students’ engagement and made learning more difficult, leading to the recommendation of increased practice and supportive learning tools.
 
-**Retrieved from https://www.scribd.com/document/881677576/CHAPTER-1**
-
 #### **2.2** 
 Pasay City South High School (2023) examined programming challenges among Grade 11 ICT students. The study identified difficulties in fixing errors and maintaining motivation and recommended increased practice and stronger instructional support to improve learning outcomes.
-
-**Retrieved from https://www.scribd.com/document/884907445/Group-4-Practical-Research-1-2**
 
 #### **2.3** 
 Philippine Science High School (2019) conducted a case study on students’ programming competence and learning experiences. The findings showed that while learners demonstrated overall capability, they continued to face challenges in syntax and debugging that affected their confidence and academic performance.
 
-**Retrieved from https://www.scribd.com/document/847572853/Evaluating-Computer-Programming-Competence-of-Selected-Grade-9-Students-A-Case-Study**
-
 #### **2.4** 
 Young Achievers School of Caloocan (2021) explored Grade 11 ICT students’ perspectives on coding. The study revealed that although students recognized the importance of programming skills, anxiety and lack of confidence negatively affected their performance.
-
-**Retrieved from https://www.studocu.com/ph/document/young-achievers-school-of-caloocan-inc/research/practical-research-1/107949526**
 
 #### **2.5** 
 St. Matthew Academy of Cavite (2022) examined the effects of learning programming on ICT students’ skills and motivation. The results indicated that effective teaching strategies, adequate learning resources, and peer support significantly improved student engagement.
 
-**Retrieved from https://it.scribd.com/document/643893686/Research-Group-5**
-
 ---
+
+#### **Foreign Studies**
+- IJETI. (n.d.). *Research article*. https://www.ijiet.org/vol6/709-T0021.pdf  
+- ACM Digital Library. (n.d.). *Conference paper*. https://dl.acm.org/doi/10.1145/3077618  
+- Frontiers in Education. (2022). *Research article*. https://www.frontiersin.org/articles/10.3389/feduc.2022.948783/full  
+- ERIC. (n.d.). *Journal article*. https://files.eric.ed.gov/fulltext/EJ1448912.pdf  
+- Contemporary Educational Technology. (n.d.). *Research study*. https://doi.org/10.30935/cedtech/8247  
+
+#### **Local Studies**
+- Scribd. (n.d.). *Chapter 1 research paper*. https://www.scribd.com/document/881677576/CHAPTER-1  
+- Scribd. (n.d.). *Group 4 practical research*. https://www.scribd.com/document/884907445/Group-4-Practical-Research-1-2  
+- Scribd. (n.d.). *Grade 9 programming competence case study*. https://www.scribd.com/document/847572853/Evaluating-Computer-Programming-Competence-of-Selected-Grade-9-Students-A-Case-Study  
+- Studocu. (n.d.). *Practical Research 1*. https://www.studocu.com/ph/document/young-achievers-school-of-caloocan-inc/research/practical-research-1/107949526  
+- Scribd. (n.d.). *Research Group 5*. https://it.scribd.com/document/643893686/Research-Group-5  
+
+
+
+
+
+
+
+
+
+
