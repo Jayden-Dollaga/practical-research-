@@ -12,10 +12,6 @@ In the local context, a study conducted at ACLC Antipolo during the school year 
 
 Given these findings, it is important to further examine the experiences and motivation of ICT students in learning programming. Understanding the factors that influence students’ learning experiences can help improve teaching strategies and provide better support for learners. This study aims to explore the experiences and motivation of Senior High School ICT students in programming to better understand the challenges they face and how these affect their learning.
 
-**Sources:**
-- IJETI. (n.d.). *Article PDF*. https://www.ijiet.org/vol6/709-T0021.pdf
-- Studocu. (n.d.). *PR Group 1 document*. https://www.studocu.com/ph/document/ama-computer-learning-center/information-system/pr-group-1/97739258
-
 ---
 
 ### **Statement of the Problem**
@@ -79,16 +75,16 @@ This study was conducted to determine whether students require proper assistance
 The findings of this study may benefit the following:
 
 **Students.**
-This study may help ICT students better understand their learning challenges and motivations in programming, allowing them to develop more effective learning strategies.
+* This study may help ICT students better understand their learning challenges and motivations in programming, allowing them to develop more effective learning strategies.
 
 **Teachers.**
-The results may guide ICT teachers in improving instructional methods, particularly in addressing difficulties such as debugging and syntax errors, and in enhancing student motivation.
+* The results may guide ICT teachers in improving instructional methods, particularly in addressing difficulties such as debugging and syntax errors, and in enhancing student motivation.
 
 **School Administrators.**
-The study may provide insights that can help administrators design better ICT curricula and learning support programs.
+* The study may provide insights that can help administrators design better ICT curricula and learning support programs.
 
 **Future Researchers.**
-This research may serve as a reference for future studies related to ICT education, programming instruction, and student motivation.
+* This research may serve as a reference for future studies related to ICT education, programming instruction, and student motivation.
 
 ---
 
@@ -100,25 +96,25 @@ This study focuses on the experiences and motivation of Senior High School stude
 
 ### **Definition of Terms**
 
-**Academic Performance** – Refers to the level of achievement of students in ICT subjects, particularly in programming-related activities and assessments.
+* **Academic Performance** – Refers to the level of achievement of students in ICT subjects, particularly in programming-related activities and assessments.
 
-**Classroom Learning Experience** – The teaching methods, learning activities, and instructional support encountered by students during programming lessons.
+* **Classroom Learning Experience** – The teaching methods, learning activities, and instructional support encountered by students during programming lessons.
 
-**Debugging** – The process of identifying and correcting errors in a computer program.
+* **Debugging** – The process of identifying and correcting errors in a computer program.
 
-**ICT (Information and Communication Technology)** – Refers to the academic strand that focuses on computer systems, programming, and digital technologies.
+* **ICT (Information and Communication Technology)** – Refers to the academic strand that focuses on computer systems, programming, and digital technologies.
 
-**Learning Experience** – The students’ encounters, challenges, and perceptions while studying programming.
+* **Learning Experience** – The students’ encounters, challenges, and perceptions while studying programming.
 
-**Motivation** – The factors that influence students’ interest, effort, and persistence in learning programming.
+* **Motivation** – The factors that influence students’ interest, effort, and persistence in learning programming.
 
-**Programming** – The process of creating instructions that a computer follows to perform specific tasks.
+* **Programming** – The process of creating instructions that a computer follows to perform specific tasks.
 
-**Programming Challenges** – The difficulties students experience in learning programming, such as syntax errors, logic formulation, and debugging.
+* **Programming Challenges** – The difficulties students experience in learning programming, such as syntax errors, logic formulation, and debugging.
 
-**Senior High School Students** – Learners enrolled in Grades 11 and 12 under the ICT strand.
+* **Senior High School Students** – Learners enrolled in Grades 11 and 12 under the ICT strand.
 
-**Syntax Errors** – Mistakes in the structure or rules of a programming language that prevent a program from running correctly.
+* **Syntax Errors** – Mistakes in the structure or rules of a programming language that prevent a program from running correctly.
 
 ---
 
@@ -164,6 +160,10 @@ Young Achievers School of Caloocan (2021) explored Grade 11 ICT students’ pers
 St. Matthew Academy of Cavite (2022) examined the effects of learning programming on ICT students’ skills and motivation. The results indicated that effective teaching strategies, adequate learning resources, and peer support significantly improved student engagement.
 
 ---
+
+#### **BOS Sources:**
+- IJETI. (n.d.). *Article PDF*. https://www.ijiet.org/vol6/709-T0021.pdf
+- Studocu. (n.d.). *PR Group 1 document*. https://www.studocu.com/ph/document/ama-computer-learning-center/information-system/pr-group-1/97739258
 
 #### **Foreign Studies**
 - IJETI. (n.d.). *Research article*. https://www.ijiet.org/vol6/709-T0021.pdf  
