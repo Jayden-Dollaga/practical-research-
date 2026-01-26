@@ -179,7 +179,9 @@ St. Matthew Academy of Cavite (2022) examined the effects of learning programmin
 - Studocu. (n.d.). *Practical Research 1*. https://www.studocu.com/ph/document/young-achievers-school-of-caloocan-inc/research/practical-research-1/107949526  
 - Scribd. (n.d.). *Research Group 5*. https://it.scribd.com/document/643893686/Research-Group-5  
 
+---
 
+## **CHAPTER 2**
 
 
 
