@@ -1,6 +1,6 @@
 ## **An Exploration of ICT Students’ Learning Experiences in Basic Programming at Senior High Schools Located in Naic**
 
-## **CHAPTER 1**
+## **CHAPTER 1: INTRODUCTION**
 
 ### **Background of the Study**
 
@@ -181,12 +181,14 @@ St. Matthew Academy of Cavite (2022) examined the effects of learning programmin
 
 ---
 
-## **CHAPTER 2**
+## **CHAPTER 2: **
 
 
 
 
 
+---
 
+## **CHAPTER 3: **
 
 
