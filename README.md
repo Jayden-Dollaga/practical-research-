@@ -56,7 +56,7 @@ The dependent variable of this study is the motivation of student learning progr
 * Students’ motivation in learning programming
 * Improved engagement and learning outcomes in ICT subjects
 
-**Explanation**
+**Explanation/Figure 1**
 
 The **Input-Process-Output (IPO)** model is used in this research to explain the process by which different factors affect the motivation of ICT students learning programming.
 
