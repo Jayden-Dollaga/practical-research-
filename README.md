@@ -126,38 +126,39 @@ This chapter presents related foreign and local studies that support the present
 #### **Foreign Studies**
 
 #### **1.1** 
-Kori, Pedaste, Leijen & Tõnisson (2016) examined ICT students’ motivation differences based on prior programming exposure. The research found that students who learned programming before university had higher motivation and better academic results than those who began programming only at university, suggesting that early experience influences learning success in ICT programs. 
+Kori, Pedaste, Leijen & Tõnisson (2016) investigated how prior coding experience impacts first-year ICT students’ motivation and achievement. They found that students who learned programming before university tended to have higher motivation and significantly better grades than those beginning programming at university. For example, the experienced students earned higher weighted-average grades in their first semester. By contrast, novices were more driven by external incentives – the study reports that students new to programming showed higher “external regulation” (e.g. motivation from future job prospects) than those with prior experience. Together, these results suggest that early exposure to programming fosters a more intrinsic learning orientation and gives students an advantage in ICT studies.
+
 
 #### **1.2** 
-Qian & Lehman (2017) reviewed misconceptions and other difficulties in introductory programming courses. They reported that novice learners often struggle with syntax errors, conceptual misunderstandings, and strategic knowledge application, all of which hinder learning progress and reduce confidence. 
+Qian & Lehman (2017) conducted a comprehensive literature review of beginner programmers’ misconceptions and difficulties. They report that novices frequently struggle across multiple dimensions: syntactic knowledge (grasping language syntax and rules), conceptual knowledge (understanding programming constructs and logic), and strategic knowledge (knowing how to approach and solve problems). These deep-seated misconceptions often lead to persistent errors and confusion. For instance, beginners may write code with syntax errors or misunderstand how loops and conditionals work, which in turn inhibits their ability to debug and learn effectively. In short, these intertwined difficulties slow students’ progress and can discourage learners in introductory programming courses.
 
 #### **1.3** 
-A study published in Frontiers in Education (2022) showed that students’ intrinsic and extrinsic motivations affected their engagement in programming and computational thinking. Prior programming experience was strongly linked to higher intrinsic  and better learning outcomes. 
+A study published in Frontiers in Education (2022) examined how programming motivation relates to student engagement and computational thinking (CT) skills. This research found that students with prior programming experience generally reported higher intrinsic motivation (interest/enjoyment) for coding, and this intrinsic motivation was linked to better CT outcomes. Specifically, high intrinsic programming motivation predicted higher CT test scores for students who already had coding experience, whereas for students without prior experience, higher extrinsic motivation (e.g. interest in external rewards) predicted better CT skills. In other words, prior coding experience seems to bolster a student’s internal drive and leads to stronger learning outcomes in programming and computational thinking.
 
 #### **1.4** 
-Abdunabi (2024) found that programming self-efficacy and motivation predict academic success in ICT courses. Students with higher confidence and motivation demonstrated better performance and persistence in programming tasks.
+Abdunabi (2024) explored how programming self-efficacy and related factors predict success in IS/ICT courses. He notes that, according to expectancy-value theory, students’ expectations of success and the value they place on a task strongly predict their performance and persistence. The study’s data confirm this: students who highly valued learning programming tended to work more independently and persist longer when solving difficult coding problems. These findings imply that learners with higher programming confidence and motivation generally achieve better performance and stick with challenging programming tasks longer, thereby improving their academic outcomes.
 
 #### **1.5** 
-Cheah (2020) conducted a systematic review of programming learning difficulties and found that lack of problem-solving skills, poor instructional materials, and limited hands-on support contribute to learners’ struggles, which negatively affect motivation and engagement. 
+Cheah’s (2020) systematic review identifies multiple factors that make learning programming difficult and sap students’ motivation. She highlights that many learners simply lack the foundational problem-solving skills needed to break down programming tasks. In addition, traditional instructional materials often fail to convey programming concepts effectively – for example, static textbooks do not support the dynamic, visual nature of coding. Cheah also points out that limited hands-on support worsens the situation: when students are not actively involved in practical coding sessions, they struggle to understand concepts and quickly become disengaged. Altogether, poor problem-solving ability, inadequate instructional resources, and insufficient practical support combine to undermine novice programmers’ motivation and engagement.
 
 ---
 
 #### **Local Studies**
 
 #### **2.1** 
-Palawan National School (2023) investigated the challenges faced by Grade 12 ICT students in learning programming, particularly in handling syntax errors and debugging activities. The study found that these problems reduced students’ engagement and made learning more difficult, leading to the recommendation of increased practice and supportive learning tools.
+Palawan National School (2023) investigated the challenges faced by Grade 12 ICT students in learning programming, focusing on syntax errors and debugging difficulties. The study found that persistent errors often caused frustration, which reduced students’ engagement and made learning more difficult. Researchers observed that without timely feedback and support for correcting errors, students could develop negative attitudes toward programming, weakening their skills and confidence. To address these issues, the study recommended practical interventions such as implementing real-time debugging tools or extensions that provide immediate feedback, along with giving students more hands-on practice through exercises and tutorials. Additionally, they emphasized the importance of supportive learning resources to build students’ confidence and improve their overall proficiency in programming.
 
 #### **2.2** 
-Pasay City South High School (2023) examined programming challenges among Grade 11 ICT students. The study identified difficulties in fixing errors and maintaining motivation and recommended increased practice and stronger instructional support to improve learning outcomes.
+Pasay City South High School (2023) examined the programming challenges experienced by Grade 11 ICT students. The study revealed that learners often struggled with identifying and fixing errors in their code, which caused frustration and a decline in motivation. Interviews indicated that students frequently spent excessive time troubleshooting a single bug, only to encounter additional issues, which compounded their discouragement. Factors such as limited access to computers and a rapid teaching pace further hindered their learning, leaving students feeling overwhelmed. The researchers recommended adopting student-centered teaching strategies, including slowing down the introduction of new topics, providing remedial sessions or tutorials, and encouraging collaborative group work. They also advised incorporating regular coding practice, guided tutorials, and better access to instructional resources to help students overcome these challenges and maintain motivation.
 
 #### **2.3** 
-Philippine Science High School (2019) conducted a case study on students’ programming competence and learning experiences. The findings showed that while learners demonstrated overall capability, they continued to face challenges in syntax and debugging that affected their confidence and academic performance.
+Philippine Science High School (2019) conducted a case study on the programming competence and learning experiences of Grade 9 students. The findings indicated that although most students demonstrated overall capability, they still faced recurring difficulties with coding syntax and debugging. Students reported issues such as improper syntax and repeated trial-and-error attempts, which affected their confidence and slowed their learning progress. The study concluded that even competent learners benefit from additional practice exercises and targeted instruction to address persistent technical challenges. Providing focused guidance helps maintain both performance and self-assurance, ensuring that students continue to build their programming skills effectively.
 
 #### **2.4** 
-Young Achievers School of Caloocan (2021) explored Grade 11 ICT students’ perspectives on coding. The study revealed that although students recognized the importance of programming skills, anxiety and lack of confidence negatively affected their performance.
+Young Achievers School of Caloocan (2021) explored the perspectives of Grade 11 ICT students regarding coding. The research showed that while students understood the importance of programming skills for their future careers, many experienced anxiety and low confidence when attempting coding tasks. These emotional factors often became barriers, as anxious students tended to freeze or give up when confronted with difficult problems. The study emphasized that these feelings of anxiety and self-doubt negatively impacted performance and suggested that psychological support, confidence-building exercises, and technical guidance are essential for fostering successful learning experiences among novice programmers.
 
 #### **2.5** 
-St. Matthew Academy of Cavite (2022) examined the effects of learning programming on ICT students’ skills and motivation. The results indicated that effective teaching strategies, adequate learning resources, and peer support significantly improved student engagement.
+St. Matthew Academy of Cavite (2022) examined how programming instruction affects ICT students’ skills and motivation. The study found that students who received effective teaching and adequate support showed significantly higher engagement in programming. For example, experienced teachers providing clear explanations, ample practice materials, and opportunities for peer collaboration encouraged learners to work together, tutor one another, and participate more actively in coding exercises. The research concluded that combining well-structured teaching strategies with peer support not only improved students’ programming skills but also boosted their confidence and overall motivation to learn.
 
 ---
 
@@ -183,12 +184,9 @@ St. Matthew Academy of Cavite (2022) examined the effects of learning programmin
 
 ## **CHAPTER 2: **
 
-
-
-
-
 ---
 
 ## **CHAPTER 3: **
 
+---
 
