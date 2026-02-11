@@ -187,17 +187,26 @@ St. Matthew Academy of Cavite (2022) carried out a research study to investigate
 
 ### **Research Design**
 
+
+This study used a qualitative descriptive research design to investigate the learning experiences of Information and Communication Technology (ICT) students in basic programming at selected senior high schools located in Naic, Cavite. A qualitative descriptive design was chosen because it allows the researchers to explore and understand students’ experiences, perceptions, and challenges in learning programming based on their personal insights and responses. This design is appropriate for the study since it focuses on gathering detailed descriptions of participants’ experiences in a natural setting without manipulating any variables. Through this approach, the researchers were able to collect in-depth information regarding students’ understanding of programming concepts, the difficulties they encounter, and the factors that influence their learning process. The research specifically focuses on examining how ICT students learn basic programming, the challenges they experience during the learning process, and the strategies they use to understand programming lessons. By using this research design, the study aims to provide a clear and comprehensive understanding of ICT students’ learning experiences in basic programming and contribute to the improvement of teaching methods and learning strategies in senior high school programming education.
+
 ---
 
 ### **Population of the Study**
+
+The population of this study consisted of Senior High School Information and Communication Technology (ICT) students enrolled in basic programming subjects from three selected senior high schools located in Naic, Cavite during the school year 2025–2026. The schools included in the study were Western Colleges Inc. (WCI), Naic Senior High School (Stand-Alone) – Division of Cavite (NSHSSA), and Immaculate Conception School of Naic Inc. (ICSNI). These students were selected as the target population because they are directly involved in learning programming concepts and can provide relevant information about their learning experiences in basic programming. The participants from these schools possess the necessary knowledge, experiences, and perspectives that are essential in exploring the different factors that influence programming learning, including teaching methods, learning resources, and challenges encountered by ICT students.
 
 ---
 
 ### **Sampling Method**
 
+The researchers used purposive sampling to select the participants of the study. Purposive sampling is a non-probability sampling technique in which respondents are selected based on specific characteristics relevant to the research objectives. This method was appropriate for the study because it allowed the researchers to select ICT students who are currently taking or have taken basic programming subjects and who can provide meaningful insights regarding their learning experiences. The study involved a total of fifteen (15) respondents, with five (5) ICT students selected from each of the three schools, namely Western Colleges Inc. (WCI), Naic Senior High School (Stand-Alone) – Division of Cavite (NSHSSA), and Immaculate Conception School of Naic Inc. (ICSNI). This sampling method ensured that the selected participants have direct experience with the subject matter and can provide reliable and relevant data for the study.
+
 ---
 
 ### **Data Collection Procedure**
+
+The researchers gathered data through interviews to obtain detailed information about the learning experiences of ICT students in basic programming. Prior to conducting the study, permission was secured from the administrators and teachers of Western Colleges Inc. (WCI), Naic Senior High School (Stand-Alone) – Division of Cavite (NSHSSA), and Immaculate Conception School of Naic Inc. (ICSNI) to ensure that the research was conducted ethically and with proper authorization. The selected participants were informed about the purpose of the study and were assured that their responses would remain confidential and used only for academic purposes. The researchers conducted interviews with five selected ICT students from each school, asking questions related to their experiences, challenges, and understanding of basic programming. After collecting the data, the researchers organized and carefully reviewed the responses. The collected information was then analyzed using thematic analysis to identify common patterns, themes, and insights regarding ICT students’ learning experiences in basic programming. The results of the analysis were interpreted to provide meaningful conclusions and recommendations for the study.
 
 ---
 
