@@ -181,7 +181,23 @@ St. Matthew Academy of Cavite (2022) carried out a research study to investigate
 
 ---
 
-## **CHAPTER 2: **
+## **CHAPTER 2: Methodology**
+
+---
+
+### **Research Design**
+
+---
+
+### **Population of the Study**
+
+---
+
+### **Sampling Method**
+
+---
+
+### **Data Collection Procedure**
 
 ---
 
