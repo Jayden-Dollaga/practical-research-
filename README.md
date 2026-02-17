@@ -205,7 +205,7 @@ Purposive sampling was used to select the participants. This non-probability sam
 
 ### **Data Collection Procedure**
 
-Data were collected through interviews to obtain detailed information about students’ learning experiences in basic programming. Permission was secured from the school administrators and teachers prior to data gathering. Participants were informed of the purpose of the study and assured of confidentiality. Five students from each school were interviewed using questions related to their experiences, challenges, and understanding of programming. The responses were organized and analyzed using thematic analysis to identify common patterns and themes. The findings were then interpreted to form conclusions and recommendations.
+Prior to data gathering, the researchers prepared a formal request letter to obtain permission from the administrators and teachers of the three schools. After approval was granted, data were collected through interviews to obtain detailed information about students’ learning experiences in basic programming. Participants were informed about the purpose of the study and assured that their responses would remain confidential and be used only for academic purposes. Five students from each school were interviewed using questions related to their experiences, challenges, and understanding of programming concepts. The responses were organized and analyzed using thematic analysis to identify common patterns and themes. The findings were then interpreted to form conclusions and recommendations.
 
 ---
 
