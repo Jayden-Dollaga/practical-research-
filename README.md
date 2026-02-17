@@ -193,13 +193,13 @@ This study employed a qualitative descriptive research design to examine the lea
 
 ### **Population of the Study**
 
-The population consisted of Senior High School ICT students enrolled in basic programming subjects from three selected schools in Naic, Cavite during the school year 2025–2026: Western Colleges Inc. (WCI), Naic Senior High School (Stand-Alone) – Division of Cavite (NSHSSA), and Immaculate Conception School of Naic Inc. (ICSNI). These students were selected because they are directly involved in learning programming and can provide relevant insights regarding their experiences, challenges, and learning conditions. students.
+The population consisted of fifteen (15) Senior High School ICT students enrolled in basic programming subjects from three selected schools in Naic, Cavite during the school year 2025–2026. The schools included Western Colleges Inc. (WCI), Cavite Community Academy Inc. (CCA), and Immaculate Conception School of Naic Inc. (ICSNI). These students were selected because they are directly involved in learning programming and can provide relevant insights regarding their experiences, challenges, and learning conditions.
 
 ---
 
 ### **Sampling Method**
 
-Purposive sampling was used to select the participants. This non-probability sampling technique allows the selection of respondents based on specific criteria relevant to the study. The researchers selected ICT students who are currently taking or have taken basic programming subjects. A total of fifteen (15) students participated in the study, with five (5) students from each of the three schools. This ensured that all participants had direct experience with the subject and could provide meaningful information.
+Purposive sampling was used to select the participants. This non-probability sampling technique allows the selection of respondents based on specific criteria relevant to the study. The researchers selected ICT students who are currently taking or have taken basic programming subjects. This method ensured that all participants had direct experience with the subject and could provide meaningful information.
 
 ---
 
