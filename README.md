@@ -161,26 +161,6 @@ St. Matthew Academy of Cavite (2022) carried out a research study to investigate
 
 ---
 
-#### **BOS Sources:**
-- IJETI. (n.d.). *Article PDF*. https://www.ijiet.org/vol6/709-T0021.pdf
-- Studocu. (n.d.). *PR Group 1 document*. https://www.studocu.com/ph/document/ama-computer-learning-center/information-system/pr-group-1/97739258
-
-#### **Foreign Studies**
-- IJETI. (n.d.). *Research article*. https://www.ijiet.org/vol6/709-T0021.pdf  
-- ACM Digital Library. (n.d.). *Conference paper*. https://dl.acm.org/doi/10.1145/3077618  
-- Frontiers in Education. (2022). *Research article*. https://www.frontiersin.org/articles/10.3389/feduc.2022.948783/full  
-- ERIC. (n.d.). *Journal article*. https://files.eric.ed.gov/fulltext/EJ1448912.pdf  
-- Contemporary Educational Technology. (n.d.). *Research study*. https://doi.org/10.30935/cedtech/8247  
-
-#### **Local Studies**
-- Scribd. (n.d.). *Chapter 1 research paper*. https://www.scribd.com/document/881677576/CHAPTER-1  
-- Scribd. (n.d.). *Group 4 practical research*. https://www.scribd.com/document/884907445/Group-4-Practical-Research-1-2  
-- Scribd. (n.d.). *Grade 9 programming competence case study*. https://www.scribd.com/document/847572853/Evaluating-Computer-Programming-Competence-of-Selected-Grade-9-Students-A-Case-Study  
-- Studocu. (n.d.). *Practical Research 1*. https://www.studocu.com/ph/document/young-achievers-school-of-caloocan-inc/research/practical-research-1/107949526  
-- Scribd. (n.d.). *Research Group 5*. https://it.scribd.com/document/643893686/Research-Group-5  
-
----
-
 ## **CHAPTER 2: Methodology**
 
 ---
@@ -209,12 +189,211 @@ Prior to data gathering, the researchers prepared a formal request letter to obt
 
 ---
 
-## **CHAPTER 3: **
+## **CHAPTER 3: RESULTS & DISCUSSION**
+
+---
+
+This chapter presents the finding of the study based on the data gathered from the fifteen (15) ICT student respondents. The results are organized according to the research questions and analyzed using thematic analysis.
+
+---
+
+## **1.1 Demographic Characteristics of the terms of their age**
+|    **AGE**    |    **Respondents**    |
+|-----|-----|
+| 16-17 years old | 1,2,3,5,7,9,10,11,12,13,14,15 |
+| 18-19 years old | 4,6,8 |
+
+**Table 1.1** shows that the majority of the respondents (12 or 80%) are aged 16-17 years old, while three respondents (20%) are aged 18-19 years old. This indicates that most ICT students participating in the study in the study are within the typical age range of Senior High School learners.
+
+---
+
+## **1.2 Demographic Characteristics of the terms of their gender**
+|    **GENDER**    |    **Respondents**    |
+|-----|-----|
+| 16-17 years old | 1,2,3,4,5,7,8,9,10,11,12,13,14,15 |
+| 18-19 years old | 6 |
+
+**Table 1.2** reveals that the majority of the respondents are male (14 or 93%), while the only respondents (7%) is female. This suggest the ICT strand is the selected schools is predominantly compose of male students.
+
+---
+
+## **Table 2: The learning experiences of ICT students in programming**
+| Q1. What are the learning experiences of ICT students in programming? |
+|-----------------------------------------------------------------------|
+| "Para sa akin? Noong Grade 8, na-introduce ako ng ICT teacher ko sa HTML. Na-engganyo ako sa paggawa ng code, pag-pro-program. Sinimulan ko sa paggawa ng mga reviewers at kung ano-ano pang projects na pinapagawa niya sa akin. 'Yun lang po." |
+| "So, 'yung pinaka-experience ko po sa ICT with programming is tinutulungan po nito ako mag-develop ng practical na skills and hobbies na while at the same time fun, pwede ko pong magamit ito in the future." |
+| "It is very fun and challenging at the same time." |
+| "Ano po... it makes me very engaged and happy." |
+| "Para sa akin po, interesting siya. Marami kang matututunan, lalo na sa mga codes, and then 'yun, mas lalo ka ring mae-engganyo na mag-explore pa sa mga computer-related na mga bagay." |
+| "Uhm, it is hard to learn but it will become easy when you practice more and study well." |
+| "Uhm, it is enjoyable because you can create whatever you want." |
+| "'Yung pagde-debug po tsaka 'yung pag-aaral po ng Java language." |
+| "Uhm, the learning experiences of an ICT student is how to debug, learn functions, and learn the variables." |
+| "Yung pagde-debug ng codes and yung pagle-learn ng bagong language." |
+| "We experience a thrilled and happy encounter when performing the task. 'Yun lang po." |
+| "The learning ICT in programming is to write the coding and debugging and testing." |
+| "Learning to kill the viruses or bugging and testing." |
+| "Testing a LAN—when a LAN is testing—working or not working." |
+| "Learning—learning to writing code and [recognizing] and testing." |
+
+**Table 2**  the responses show that ICT students have positive learning experiences in programming. Many of them were introduced to coding at an early grade level, which made them interested in learning more. They described programming as fun, interesting, and sometimes challenging. Some students said it is hard at first, but it becomes easier with practice and study. They learned how to write codes, debug errors, test programs, and understand functions and variables. Others also experienced testing LAN connections and fixing computer problems. Overall, programming helps ICT students develop useful skills for the future while making them feel happy, engaged, and motivated to learn more.
+
+---
+
+## **Table 3: The challenges of ICT students encounter while learning programming**
+| Q2. What challenges do ICT students encounter while learning programming? |
+|-----------------------------------------------------------------------|
+| "Ano lang, 'yung steep learning gap. Masyadong mataas. Kunwari, galing ka sa HTML, bigla kang tumalon sa C++. 'Di ba, ang laki ng gap? Hindi natin ma-ano [adapt] agad. Lalo na sa mga bugs. Lalo na't bago lang tayo, 'di natin alam paano mag-programming, paano mag-fine-tuning, at iba't ibang ICT techniques kung paano at anong tools i-import natin. 'Yun lang." |
+| "Ah, mainly the lack of access and support po for ICT-focused subjects. Kasi for example po, hindi po gaano... for example po sa school natin, wala po tayong subjects that deal with programming. Meaning na kailangan ko po itong ipasok sa aking free time. And ayun po, when mostly school na po nagte-take up ng time ko, hindi ko na po minsan nakukuha 'yung time na i-develop 'yung skills na 'to." |
+| "Uhm, errors and code not working po. 'Yun." |
+| "Focus po." |
+| "Ano po, logic and critical thinking po. Siyempre, hindi naman po mawawala 'yung errors sa pagco-code." |
+| "Uhm, some codes are very confusing and hard to memorize." |
+| "Uhm, sometimes it is hard and confusing when some of the codes don't work." |
+| "The most challenging in programming is 'yung debugging po." |
+| "The challenges are debugging the code or finding errors and fixing it." |
+| "Unang-una yung pagde-debug, tsaka yung paghahanap ng errors sa code mo kasi pag may error sa code mo, medyo mahirap hanapin." |
+| "Um, fixing the task, task-linked the RJ-45 and to see the light of LAN tester." |
+| "The challenging parts encountered in ICT programming is finding resources and getting help when stuck when you get a problem." |
+| "When it comes to practicing or solo-wing (sic) the codes or the solution for the problems." |
+| "It helps—and learn struggles at coding and testing." |
+| "It's hard to—to learn [to] write code." |
+
+**Table 3** One common problem is the steep learning gap, such as moving from basic HTML to more advanced languages like C++, which makes it hard for beginners to adjust. Many students find debugging or fixing errors in their code very difficult and confusing. Some also struggle with logic, critical thinking, memorizing codes, and focusing while coding. Other challenges include lack of school subjects focused on programming, limited time to practice, and difficulty finding resources or support when they get stuck. A few students also mentioned challenges in hands-on tasks like fixing RJ-45 cables and testing LAN connections. Overall, programming is hard for many students, especially when learning to write code and solve problems on their own.
+
+---
+
+## **Table 4: The motivation of ICT students for learning programming**
+| Q3. What motivate ICT students to learn programming? |
+|-----------------------------------------------------------------------|
+| "Nagmo-motivate sa mga students is 'yung hype. 'This is the future.' Doon sila nabubuhay sa hype. Malaking suweldo, 'this is the future,' tapos work sa office, nakaupo ka lang... parang high-end jobs." |
+| "Mainly po 'yung achievement na nakaka-create at develop ako ng something from scratch. From what—ano—from scratch, from absolutely wala, for an end, wala ring gastos, makakagawa ako ng isang app, ng isang system na makakatulong sa mga tao." |
+| "Learning is the reward. Knowing that you can program, knowing more, and knowing more about programming makes me feel rewarded." |
+| "For me kasi ano eh, 'yung codes and program algorithms." |
+| "Ano po, 'yung pagnanais po na matuto pa ng marami at siyempre po, 'yung fulfillment po kapag natapos mo na 'yung isang project." |
+| "Because learning is fun and knowing you can do many things on a computer." |
+| "Because you can learn more about how a computer works and how a website works." |
+| "Ano... to create innovative solutions." |
+| "Uhm, different uses of coding, like making a game or making websites." |
+| "Para sa akin ang nagmo-motivate sa akin is yung makagawa ako ng laro. Like mga pwede naman sa Roblox or ibang game na platform po." |
+| "It multi-meters (sic) us by enhancing us to learn the programming and enjoy with other classmates." |
+| "The motivation—motivate ICT students learning programming is... I'm motivating to build a cool project and I want to be—I want to make a cool apps and games." |
+| "This is to help or earn money by programming. What I mean at help, for example, is fixing a computer issues." |
+| "By fixing my PC or use it to earn money." |
+| "To earn money and to be rich." |
+
+**Table 4** ICT students are motivated to learn programming by a combination of personal interest, achievement, creativity, and future opportunities. Many are driven by the excitement and hype of programming as a “future-ready” skill with potential high-paying jobs. Others find motivation in the satisfaction of creating something from scratch, such as apps, systems, games, or websites, and the sense of accomplishment it brings. Learning for personal growth, understanding how computers work, and enjoying coding with peers are also important motivators. Additionally, some students are motivated by practical benefits, such as earning money, solving computer problems, or pursuing lucrative career opportunities.
+
+---
+
+## **Table 5: The students experiences their motivation in learning programming**
+| Q4. How do students' experiences influence their motivation in learning programming? |
+|-----------------------------------------------------------------------|
+| "Nakikita mo 'yung student, na-inspire sila sa paggawa ng laro. Nagsisimula 'yun doon. Inaaral nila 'yun. Una, nagda-download sila ng mga studios, naghahanap sila ng mga blocks. Then, once na-interested na sila, magco-code na sila—Python, C++, HTML, CSS, Java, JavaScript. At ano ba, as long as the hype lives on, the motivation lives on. At may susunod at susunod na estudyante. 'Yun lang po." |
+| "So 'yung experience ko po, ito po nagpapakita sa akin kung saan ko po pwedeng i-apply 'yung ICT and programming in real-world practical scenarios po... through my experiences po, nakikita ko po kung saan 'yung mga inefficiencies and saan po may mga gaps na pwedeng i-apply ang ICT and programming para mas maging efficient ang mga bagay-bagay." |
+| "Because I have failed before. I would—I would want to try again and succeed at the next—succeed next time, next time." |
+| "Ano po, 'yung experience influence them... it helps them to acquire more knowledge and skills." |
+| "Ano po, 'yung... the more na marami ka pong nararanasan, mas marami ka pong natututunan. And then, mas lalo ka ring namo-motivate na gawin pa 'yung mga bagay-bagay na 'yun." |
+| "Uhm, because you can gain more knowledge and also develop your skills in using a computer." |
+| Uhm, because you can gain more knowledge and also develop your skills in computer—using a computer." |
+| "Behavior po." |
+| "Uhm, 'yung nakaka-influence po is 'yung ano po 'yung nagagawa po namin sa coding and 'yung behavior po." |
+| "Yung imagination po namin para ma-create yung gusto naming gawin, and then yung behavior din po ng mga ICT students." |
+| "It influence me by fixing my own account and other gadget issue." |
+| "The student's experiencing... I'm experiencing struggling with the difficult concept about framing errors and bugging in the computer programming." |
+| "By unlocking my old accounts po na nakalimutan ko po 'yung password para po mabawi ko. Tapos po, fixing the ano po, my computer issues." |
+| "Because of my friend—because he fixed my laptop." |
+| "Fixing my lap—my PC." |
+
+**Table 5** show that ICT students are influenced and motivated in many ways through their experiences in programming. Some students become interested after being inspired to create games. They start by exploring game development tools and platforms, then gradually learn programming languages such as Python, C++, HTML, CSS, Java, and JavaScript. Their interest grows as long as the excitement and trend around programming continue. Other students shared that their experiences help them see how ICT and programming can be applied in real-life situations, especially in solving problems and improving efficiency in different tasks. Several students mentioned that failure also motivates them to try again and succeed the next time. They believe that the more experiences and challenges they face, the more they learn and improve their skills. Gaining knowledge, developing computer skills, and using their imagination to create projects also influence them to continue learning. Some students are encouraged by their behavior, mindset, and the influence of their classmates or friends, especially when they see others fixing laptops or solving technical problems. Others are motivated by practical experiences such as fixing their own accounts, recovering passwords, and troubleshooting computer issues. Overall, their experiences, challenges, environment, and personal determination strongly influence their motivation to continue learning programming.
+
+---
+
+## **CHAPTER 4: SUMMARY, CONCLUSIONS, AND RECOMMENDATION**
+
+---
+
+This chapter presents the summary of findings, conclusions, and recommendations of the researchers in the study.
+
+---
+
+### **Summary**
+
+1.	What is the demographic characteristics of the respondents in terms of age and gender? The demographic profile of the respondents in terms of age and gender. Most of the respondents are 16–17 years old (12 or 80%), while 3 students (20%) are 18–19 years old, which means that the majority are within the typical age range of Senior High School learners. In terms of gender, most of the respondents are male (14 or 93%), and only one respondent (7%) is female. This indicates that the ICT strand in the selected school is predominantly composed of male students.
+2.	What are the learning experiences of ICT students in programming? ICT students generally have positive learning experiences in programming. Many were introduced to coding at an early grade level, which sparked their interest in the subject. They described programming as fun, interesting, and challenging at the same time. Although some students find it difficult at first, they shared that it becomes easier through practice and continuous study. They learned important skills such as writing codes, debugging errors, testing programs, understanding functions and variables, as well as testing LAN connections and fixing computer problems. Overall, programming helps them develop useful skills for the future while keeping them engaged, motivated, and interested in learning more.
+3.	What challenges do ICT student encounter while learning programming? ICT students face several challenges in learning programming. A major issue is the steep learning gap when moving from basic languages like HTML to more advanced ones such as C++, which makes it hard for beginners to adjust. Many struggle with debugging and fixing errors, as well as with logic, critical thinking, memorizing codes, and staying focused. Other difficulties include limited programming subjects in school, lack of time to practice, and difficulty finding resources or support. Some students also find hands-on tasks, like fixing RJ-45 cables and testing LAN connections, challenging. Overall, programming can be difficult, especially for students still developing their skills and learning to solve problems on their own.
+4.	What motivates ICT students to learn programming? Some also struggle with logic, critical thinking, memorizing codes, and maintaining focus while coding. Other difficulties include the lack of school subjects focused on programming, limited time to practice, and trouble finding resources or support when needed. A few students also mentioned hands-on tasks, like fixing RJ-45 cables and testing LAN connections, as challenging. Overall, programming can be difficult for many students, especially when learning to write code and solve problems independently.
+5.	How do students’ experiences influence their motivation in learning programming? ICT students are motivated to learn programming in different ways. Some are inspired by creating games and gradually learning programming languages, while others are encouraged by seeing how programming can solve real-life problems. Experiencing failure pushes them to try again and improve. Gaining knowledge, developing skills, using imagination, and observing classmates or friends also influence their motivation. Practical experiences, like fixing computers or recovering accounts, further inspire them. Overall, their experiences, challenges, environment, and determination strongly drive their interest in learning programming.
+
+---
+
+### **Conclusion**
+
+Based on the findings, the following conclusions are drawn:
+
+1.	The majority of ICT students in the selected school are 16–17 years old, which is the usual age for Senior High School learners. The majority of the students are also male, showing that the ICT strand in the school is mostly made up of boys.
+2.	ICT students generally have positive learning experiences in programming. Early exposure to coding sparks their interest, and although they may initially find it challenging, consistent practice helps them improve. Through programming, students develop valuable technical skills such as coding, debugging, testing programs, and troubleshooting computer issues, while also staying motivated and engaged. Overall, programming not only enhances their practical abilities but also fosters a deeper interest in ICT, preparing them for future opportunities.
+3.	ICT students encounter various challenges while learning programming, including difficulty transitioning from basic to advanced languages, debugging errors, applying logic and critical thinking, and memorizing codes. Limited class time, scarce resources, and hands-on tasks like LAN testing also add to the difficulty. Overall, these challenges highlight the need for practice, guidance, and support as students develop their programming skills and problem-solving abilities.
+4.	ICT students are motivated to learn programming by their interest in technology, the satisfaction of solving problems, and the desire to develop practical skills for future careers. The sense of achievement when successfully writing and debugging code, along with curiosity and enjoyment in creating programs, keeps them engaged and eager to improve. Overall, personal interest, hands-on learning, and career aspirations serve as strong motivators for students to continue learning programming
+5.	Students’ experiences play a significant role in motivating them to learn programming. Hands-on activities, problem-solving, and creating projects foster curiosity and determination, while overcoming failures encourages persistence. Observing peers, gaining skills, and applying knowledge in practical situations further enhance their interest. Overall, students’ experiences, challenges, and learning environment collectively strengthen their motivation to improve and continue learning programming.
+
+---
+
+## **Recommendation**
+
+Based on the presented finding and conclusions, the following recommendations are suggested:
+
+1.	The school may consider implementing initiatives to encourage more female students to join the ICT strand, such as awareness campaigns, mentorship programs, and showcasing successful women in technology. Additionally, age-appropriate teaching strategies can be used to match the learning pace and interests of the majority of students aged 16–17, ensuring more effective engagement and learning outcomes.
+2.	To further enhance ICT students’ learning experiences, the school should provide more opportunities for early and continuous exposure to programming, such as coding workshops, club activities, and practical projects. Providing additional resources, guidance, and hands-on practice can help students overcome initial challenges, strengthen their technical skills, and sustain their motivation and interest in ICT, better preparing them for future academic and career opportunities.
+3.	The school should provide additional support to help ICT students overcome programming challenges, such as offering supplemental tutorials, coding exercises, and mentoring programs. Increasing access to resources, extending practice time, and incorporating step-by-step guidance for hands-on tasks like LAN testing can strengthen students’ skills, improve their problem-solving abilities, and boost their confidence in programming.
+4.	To sustain and enhance ICT students’ motivation in learning programming, the school should provide more hands-on activities, project-based learning, and opportunities to apply programming skills to real-life problems. Encouraging creativity, offering challenges that allow students to experience success, and connecting lessons to future career paths can further engage students and strengthen their interest in ICT.
+5.	The school should provide more experiential and project-based learning opportunities, such as coding projects, problem-solving activities, and real-life applications of programming. Encouraging collaboration, allowing students to learn from peers, and creating a supportive environment where failures are treated as learning experiences can strengthen their determination, curiosity, and persistence in learning programming.
+
+---
+
+## **REFFERENCES**
+
+---
+
+#### **BOS Sources:**
+- IJETI. (n.d.). *Article PDF*. https://www.ijiet.org/vol6/709-T0021.pdf
+- Studocu. (n.d.). *PR Group 1 document*. https://www.studocu.com/ph/document/ama-computer-learning-center/information-system/pr-group-1/97739258
+
+#### **Foreign Studies**
+- IJETI. (n.d.). *Research article*. https://www.ijiet.org/vol6/709-T0021.pdf  
+- ACM Digital Library. (n.d.). *Conference paper*. https://dl.acm.org/doi/10.1145/3077618  
+- Frontiers in Education. (2022). *Research article*. https://www.frontiersin.org/articles/10.3389/feduc.2022.948783/full  
+- ERIC. (n.d.). *Journal article*. https://files.eric.ed.gov/fulltext/EJ1448912.pdf  
+- Contemporary Educational Technology. (n.d.). *Research study*. https://doi.org/10.30935/cedtech/8247  
+
+#### **Local Studies**
+- Scribd. (n.d.). *Chapter 1 research paper*. https://www.scribd.com/document/881677576/CHAPTER-1  
+- Scribd. (n.d.). *Group 4 practical research*. https://www.scribd.com/document/884907445/Group-4-Practical-Research-1-2  
+- Scribd. (n.d.). *Grade 9 programming competence case study*. https://www.scribd.com/document/847572853/Evaluating-Computer-Programming-Competence-of-Selected-Grade-9-Students-A-Case-Study  
+- Studocu. (n.d.). *Practical Research 1*. https://www.studocu.com/ph/document/young-achievers-school-of-caloocan-inc/research/practical-research-1/107949526  
+- Scribd. (n.d.). *Research Group 5*. https://it.scribd.com/document/643893686/Research-Group-5  
+
+---
+
+## **APPENDIX A: PERMISSION LETTER**
+
+---
+
+## **APPENDIX A: DOCUMENTATION**
 
 ---
 
 
 
----
+
+
+
+
+
+
+
+
+
+
 
 
