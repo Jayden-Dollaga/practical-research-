@@ -213,3 +213,317 @@ Prior to data gathering, the researchers prepared a formal request letter to obt
 
 ---
 
+---
+
+NSHSSA
+
+Participant 1
+
+Interviewer: What are the learning experiences of an ICT student in programming? What are your experiences?
+Student: In Grade 8, I was introduced to HTML by my ICT teacher. I became fascinated with coding and programming. I started by creating reviewers and completing the projects assigned by my teacher.
+
+Interviewer: What are the challenges ICT students encounter while learning programming?
+Student: One major challenge is the steep skill gap. For example, transitioning from HTML to C++ is difficult because the gap between the two languages is significant. Beginners struggle to adapt quickly, especially when dealing with bugs, fine-tuning code, and understanding different programming techniques.
+
+Interviewer: What motivates ICT students to learn programming?
+Student: Many students are motivated by the hype surrounding programming. It is seen as the future, with high salaries and stable office jobs.
+
+Interviewer: How do students' experiences influence their motivation in learning programming?
+Student: Many students become interested through game development. They begin by exploring simple tools, then progress to coding in languages like Python, C++, HTML, CSS, Java, and JavaScript. As long as the excitement remains, their motivation continues and inspires others to pursue programming as well.
+
+
+---
+
+Participant 2
+
+Name: Abdul Agilasomoch
+Age: 17
+Gender: Male
+
+Learning Experiences:
+Programming has helped me develop practical skills and hobbies that I enjoy. At the same time, these skills can be useful for my future career.
+
+Challenges:
+The main challenge is the lack of access and support for ICT-focused subjects in school. Since programming is not fully integrated into our curriculum, I have to learn it during my free time, which is limited.
+
+Motivation:
+I am motivated by the achievement of creating something from scratch. With little to no expenses, I can develop an app or system that helps others.
+
+Influence of Experience on Motivation:
+Through experience, I identify real-world inefficiencies. For example, during our Research Colloquium preparation, I noticed inefficiencies in our ICT lab. I developed a system to manage laptops more efficiently. These experiences motivate me to continue improving systems through programming.
+
+
+---
+
+Participant 3
+
+Name: Ryan Jobjie Bautista
+
+Learning Experiences:
+Programming is both enjoyable and challenging.
+
+Challenges:
+Common challenges include mathematical errors and code that does not function properly.
+
+Motivation:
+Learning itself is rewarding. Gaining knowledge in programming makes me feel accomplished.
+
+Influence of Experience:
+Experiencing failure motivates me to try again and succeed in the future.
+
+
+---
+
+Participant 4
+
+Name: Jan Laren Galario
+
+Learning Experiences:
+Programming makes me engaged and active in learning.
+
+Challenges:
+Maintaining focus while coding.
+
+Motivation:
+Interest in coding and programming algorithms motivates me.
+
+Influence of Experience:
+Experience helps students acquire more knowledge and become better prepared academically.
+
+
+---
+
+Participant 5
+
+Name: Arwen V. De Leon
+
+Learning Experiences:
+Programming is interesting because it allows you to create almost anything you want.
+
+Challenges:
+Difficulty in maintaining focus.
+
+Motivation:
+The opportunity to gain knowledge and use it in the future.
+
+Influence of Experience:
+Having prior experience provides preparation and confidence in learning programming.
+
+
+---
+
+CCA
+
+Participant 1
+
+Name: Michaela H. Dequito
+Age: 18
+Gender: Female
+
+Learning Experiences:
+We found Java difficult because it was introduced immediately after HTML, making the transition challenging.
+
+Challenges:
+Understanding code structure and debugging errors.
+
+Motivation:
+My motivation is to become an IT professional. I believe others may share similar goals.
+
+Influence of Experience:
+Past difficulties in coding motivate us to improve and fix our errors more effectively.
+
+
+---
+
+Participant 2
+
+Name: Vince Gerald Orbiso
+Age: 17
+Gender: Male
+
+Learning Experiences:
+We learned debugging and program creation, which we can apply both academically and in daily life.
+
+Challenges:
+Programming is difficult, especially debugging, which makes it hard to keep up at times.
+
+Motivation:
+Support from classmates and significant people in our lives motivates us.
+
+Influence of Experience:
+The behavior of people around us influences our motivation. Positive peers encourage growth, while negative influences can reduce motivation.
+
+
+---
+
+Participant 3
+
+Name: Lester Dave O. Mascardo
+Age: 18
+Gender: Male
+
+Learning Experiences:
+Learning Java and practicing debugging.
+
+Challenges:
+Debugging is the most challenging aspect.
+
+Motivation:
+The desire to create innovative solutions.
+
+Influence of Experience:
+Behavior and environment influence motivation.
+
+
+---
+
+Participant 4
+
+Name: Raven
+Age: 17
+Gender: Male
+
+Learning Experiences:
+Learning debugging, functions, and variables.
+
+Challenges:
+Finding and correcting errors in code.
+
+Motivation:
+The various applications of coding, such as creating games and websites.
+
+Influence of Experience:
+The ability to create projects and personal behavior influence motivation.
+
+
+---
+
+Participant 5
+
+Name: Gian Carlo
+Age: 17
+Gender: Male
+
+Learning Experiences:
+Debugging codes and learning new programming languages.
+
+Challenges:
+Identifying and fixing errors in code.
+
+Motivation:
+The desire to create games, such as those similar to Roblox.
+
+Influence of Experience:
+Imagination and the behavior of fellow ICT students influence motivation.
+
+
+---
+
+HNINH
+
+Participant 1
+
+Name: Delsaian John Ray M.
+Age: 17
+Gender: Male
+
+Learning Experiences:
+We experienced excitement and satisfaction when completing programming tasks.
+
+Challenges:
+Technical tasks such as connecting RJ45 cables and checking LAN testers.
+
+Motivation:
+Programming enhances our skills and allows collaboration with classmates.
+
+Influence of Experience:
+Experience motivates me to fix my own accounts and gadget-related issues.
+
+
+---
+
+Participant 2
+
+Name: Jomars David B. Casol
+Age: 16
+Gender: Male
+
+Learning Experiences:
+Writing code, debugging, and testing programs.
+
+Challenges:
+Finding resources and receiving help when stuck.
+
+Motivation:
+Building creative projects, apps, and games.
+
+Influence of Experience:
+Struggling with complex concepts motivates me to improve and understand errors better.
+
+
+---
+
+Participant 3
+
+Name: Rivero
+Age: 16
+Gender: Male
+
+Learning Experiences:
+Debugging, testing, and solving technical problems.
+
+Challenges:
+Practicing and solving coding problems effectively.
+
+Motivation:
+Using programming skills to help others and earn income.
+
+Influence of Experience:
+Recovering old accounts and fixing computer issues motivate me to continue learning programming.
+
+
+---
+
+Participant 4
+
+Name: Gerald Vincent S. Mojica
+Age: 17
+Gender: Male
+
+Learning Experiences:
+Testing LAN connections and checking functionality.
+
+Challenges:
+Struggles in coding and testing.
+
+Motivation:
+Fixing PCs and earning money.
+
+Influence of Experience:
+A friend who fixed my laptop inspired me to learn programming.
+
+
+---
+
+Participant 5
+
+Name: Liemenz Sumerado
+Age: 17
+Gender: Male
+
+Learning Experiences:
+Writing and testing code.
+
+Challenges:
+Learning how to write code properly.
+
+Motivation:
+Earning money and achieving financial success.
+
+Influence of Experience:
+Fixing my laptop and PC motivated me to learn programming.
+
+
+---
+
+
