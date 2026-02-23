@@ -1,3 +1,170 @@
+
+## **1.1 Demographic Characteristics of the terms of their age**
+|    **AGE**    |    **Respondents**    |
+|-----|-----|
+| 16-17 years old | 1,2,3,5,7,9,10,11,12,13,14,15 |
+| 18-19 years old | 4,6,8 |
+
+**Table 1.1** presents the age distribution of the ICT students interviewed...
+
+## **1.2 Demographic Characteristics of the terms of their gender**
+|    **GENDER**    |    **Respondents**    |
+|-----|-----|
+| 16-17 years old | 1,2,3,4,5,7,8,9,10,11,12,13,14,15 |
+| 18-19 years old | 6 |
+
+**Table 1.2** categorizes he respondents based on their gender...
+
+
+## **Table 2: The learning experiences of ICT students in programming**
+| Q1. What are the learning experiences of ICT students in programming? |
+|-----------------------------------------------------------------------|
+| "Para sa akin? Noong Grade 8, na-introduce ako ng ICT teacher ko sa HTML. Na-engganyo ako sa paggawa ng code, pag-pro-program. Sinimulan ko sa paggawa ng mga reviewers at kung ano-ano pang projects na pinapagawa niya sa akin. 'Yun lang po." |
+| 
+| "So, 'yung pinaka-experience ko po sa ICT with programming is tinutulungan po nito ako mag-develop ng practical na skills and hobbies na while at the same time fun, pwede ko pong magamit ito in the future." |
+|
+| "It is very fun and challenging at the same time." |
+|
+| "Ano po... it makes me very engaged and happy." |
+|
+| "Para sa akin po, interesting siya. Marami kang matututunan, lalo na sa mga codes, and then 'yun, mas lalo ka ring mae-engganyo na mag-explore pa sa mga computer-related na mga bagay." |
+|
+| "Uhm, it is hard to learn but it will become easy when you practice more and study well." |
+|
+| "Uhm, it is enjoyable because you can create whatever you want." |
+|
+| "'Yung pagde-debug po tsaka 'yung pag-aaral po ng Java language." |
+|
+| "Uhm, the learning experiences of an ICT student is how to debug, learn functions, and learn the variables." |
+|
+| "Yung pagde-debug ng codes and yung pagle-learn ng bagong language." |
+|
+| "We experience a thrilled and happy encounter when performing the task. 'Yun lang po." |
+|
+| "The learning ICT in programming is to write the coding and debugging and testing." |
+|
+| "Learning to kill the viruses or bugging and testing." |
+|
+| "Testing a LAN—when a LAN is testing—working or not working." |
+|
+| "Learning—learning to writing code and [recognizing] and testing." |
+|
+
+**Table 2** ...
+
+
+## **Table 3: The challenges of ICT students encounter while learning programming**
+| Q2. What challenges do ICT students encounter while learning programming? |
+|-----------------------------------------------------------------------|
+| "Ano lang, 'yung steep learning gap. Masyadong mataas. Kunwari, galing ka sa HTML, bigla kang tumalon sa C++. 'Di ba, ang laki ng gap? Hindi natin ma-ano [adapt] agad. Lalo na sa mga bugs. Lalo na't bago lang tayo, 'di natin alam paano mag-programming, paano mag-fine-tuning, at iba't ibang ICT techniques kung paano at anong tools i-import natin. 'Yun lang." |
+|  |
+| "Ah, mainly the lack of access and support po for ICT-focused subjects. Kasi for example po, hindi po gaano... for example po sa school natin, wala po tayong subjects that deal with programming. Meaning na kailangan ko po itong ipasok sa aking free time. And ayun po, when mostly school na po nagte-take up ng time ko, hindi ko na po minsan nakukuha 'yung time na i-develop 'yung skills na 'to." |
+|  |
+| "Uhm, errors and code not working po. 'Yun." |
+|  |
+| "Focus po." |
+|  |
+| "Ano po, logic and critical thinking po. Siyempre, hindi naman po mawawala 'yung errors sa pagco-code." |
+|  |
+| "Uhm, some codes are very confusing and hard to memorize." |
+|  |
+| "Uhm, sometimes it is hard and confusing when some of the codes don't work." |
+|  |
+| "The most challenging in programming is 'yung debugging po." |
+|  |
+| "The challenges are debugging the code or finding errors and fixing it." |
+|  |
+| "Unang-una yung pagde-debug, tsaka yung paghahanap ng errors sa code mo kasi pag may error sa code mo, medyo mahirap hanapin." |
+|  |
+| "Um, fixing the task, task-linked the RJ-45 and to see the light of LAN tester." |
+|  |
+| "The challenging parts encountered in ICT programming is finding resources and getting help when stuck when you get a problem." |
+|  |
+| "When it comes to practicing or solo-wing (sic) the codes or the solution for the problems." |
+|  |
+| "It helps—and learn struggles at coding and testing." |
+|  |
+| "It's hard to—to learn [to] write code." |
+|  |
+
+**Table 3** ...
+
+## **Table 4: The motivation of ICT students for learning programming**
+| Q3. What motivate ICT students to learn programming? |
+|-----------------------------------------------------------------------|
+| "Nagmo-motivate sa mga students is 'yung hype. 'This is the future.' Doon sila nabubuhay sa hype. Malaking suweldo, 'this is the future,' tapos work sa office, nakaupo ka lang... parang high-end jobs." |
+|  |
+| "Mainly po 'yung achievement na nakaka-create at develop ako ng something from scratch. From what—ano—from scratch, from absolutely wala, for an end, wala ring gastos, makakagawa ako ng isang app, ng isang system na makakatulong sa mga tao." |
+|  |
+| "Learning is the reward. Knowing that you can program, knowing more, and knowing more about programming makes me feel rewarded." |
+|  |
+| "For me kasi ano eh, 'yung codes and program algorithms." |
+|  |
+| "Ano po, 'yung pagnanais po na matuto pa ng marami at siyempre po, 'yung fulfillment po kapag natapos mo na 'yung isang project." |
+|  |
+| "Because learning is fun and knowing you can do many things on a computer." |
+|  |
+| "Because you can learn more about how a computer works and how a website works." |
+|  |
+| "Ano... to create innovative solutions." |
+|  |
+| "Uhm, different uses of coding, like making a game or making websites." |
+|  |
+| "Para sa akin ang nagmo-motivate sa akin is yung makagawa ako ng laro. Like mga pwede naman sa Roblox or ibang game na platform po." |
+|  |
+| "It multi-meters (sic) us by enhancing us to learn the programming and enjoy with other classmates." |
+|  |
+| "The motivation—motivate ICT students learning programming is... I'm motivating to build a cool project and I want to be—I want to make a cool apps and games." |
+|  |
+| "This is to help or earn money by programming. What I mean at help, for example, is fixing a computer issues." |
+|  |
+| "By fixing my PC or use it to earn money." |
+|  |
+| "To earn money and to be rich." |
+|  |
+
+**Table 4** ...
+
+
+## **Table 5: The students experiences their motivation in learning programming**
+| Q4. How do students' experiences influence their motivation in learning programming? |
+|-----------------------------------------------------------------------|
+| "Nakikita mo 'yung student, na-inspire sila sa paggawa ng laro. Nagsisimula 'yun doon. Inaaral nila 'yun. Una, nagda-download sila ng mga studios, naghahanap sila ng mga blocks. Then, once na-interested na sila, magco-code na sila—Python, C++, HTML, CSS, Java, JavaScript. At ano ba, as long as the hype lives on, the motivation lives on. At may susunod at susunod na estudyante. 'Yun lang po." |
+|  |
+| "So 'yung experience ko po, ito po nagpapakita sa akin kung saan ko po pwedeng i-apply 'yung ICT and programming in real-world practical scenarios po... through my experiences po, nakikita ko po kung saan 'yung mga inefficiencies and saan po may mga gaps na pwedeng i-apply ang ICT and programming para mas maging efficient ang mga bagay-bagay." |
+|  |
+| "Because I have failed before. I would—I would want to try again and succeed at the next—succeed next time, next time." |
+|  |
+| "Ano po, 'yung experience influence them... it helps them to acquire more knowledge and skills." |
+|  |
+| "Ano po, 'yung... the more na marami ka pong nararanasan, mas marami ka pong natututunan. And then, mas lalo ka ring namo-motivate na gawin pa 'yung mga bagay-bagay na 'yun." |
+|  |
+| "Uhm, because you can gain more knowledge and also develop your skills in using a computer." |
+|  |
+| Uhm, because you can gain more knowledge and also develop your skills in computer—using a computer." |
+|  |
+| "Behavior po." |
+|  |
+| "Uhm, 'yung nakaka-influence po is 'yung ano po 'yung nagagawa po namin sa coding and 'yung behavior po." |
+|  |
+| "Yung imagination po namin para ma-create yung gusto naming gawin, and then yung behavior din po ng mga ICT students." |
+|  |
+| "It influence me by fixing my own account and other gadget issue." |
+|  |
+| "The student's experiencing... I'm experiencing struggling with the difficult concept about framing errors and bugging in the computer programming." |
+|  |
+| "By unlocking my old accounts po na nakalimutan ko po 'yung password para po mabawi ko. Tapos po, fixing the ano po, my computer issues." |
+|  |
+| "Because of my friend—because he fixed my laptop." |
+|  |
+| "Fixing my lap—my PC." |
+|  |
+
+**Table 5** ...
+
+
+
+
 ---
 
 ---
