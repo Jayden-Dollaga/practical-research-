@@ -6,6 +6,7 @@
 This research paper entitled **“An Exploration of ICT Students’ Learning Experiences in Basic Programming at Senior High Schools Located in Naic”**, prepared and submitted by **Jessie John A. Inocentes, Jayden Ralfh B. Dollaga, Klent Dave B. Rollon, and Daniel Quiñones** in partial fulfillment of the requirements for **Practical Research 1**, is hereby recommended for Oral Examination.
 
 <ins>**Ms. Murielle E. Galicia**</ins>
+
 **Practical Research 1 Adviser**
 
 Approved in partial of the requirements in Practical Research 1
@@ -13,6 +14,7 @@ Approved in partial of the requirements in Practical Research 1
 **PANEL OF ORAL DEFENSE**
 
 <ins>**Ms. Murielle E. Galicia**</ins>
+
 **Panelist**
 
 Accepted in partial fulfillment of the requirement in Practical Research 1
