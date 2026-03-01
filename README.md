@@ -1,3 +1,4 @@
+
 ## **An Exploration of ICT Students’ Learning Experiences in Basic Programming at Senior High Schools Located in Naic**
 
 ## **CHAPTER 1: INTRODUCTION**
@@ -390,9 +391,31 @@ Based on the presented finding and conclusions, the following recommendations ar
 
 ## **APPENDIX A: PERMISSION LETTER**
 
+![Permission](Images/PAPER1.png)
+![Permission](Images/PAPER2.jpg)
+![Permission](Images/PAPER3.jpg)
+![Permission](Images/SIGN.jpg)
+
+
 ---
 
 ## **APPENDIX A: DOCUMENTATION**
+
+![Documentation](Images/1.png)
+![Documentation](Images/2.png)
+![Documentation](Images/3.png)
+![Documentation](Images/4.png)
+![Documentation](Images/5.png)
+![Documentation](Images/6.png)
+![Documentation](Images/7.png)
+![Documentation](Images/8.png)
+![Documentation](Images/9.png)
+![Documentation](Images/10.png)
+![Documentation](Images/11.png)
+![Documentation](Images/12.png)
+![Documentation](Images/13.png)
+![Documentation](Images/14.png)
+![Documentation](Images/15.png)
 
 ---
 
