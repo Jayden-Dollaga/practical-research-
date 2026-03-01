@@ -52,9 +52,13 @@ The dependent variable of this study is the motivation of student learning progr
 * Data gathering through survey questionnaires and interviews to assess students’ learning experiences, challenges, and motivation in programming.
 
 **Output**
-> my progress and not yet finalize
-* Students’ motivation in learning programming
-* Improved engagement and learning outcomes in ICT subjects
+
+* Increased student motivation in learning programming
+* Development of positive attitudes toward programming
+* Improved confidence and persistence in solving coding problems
+* Enhanced programming skills (coding, debugging, testing, troubleshooting)
+* Greater interest in pursuing ICT-related careers and projects
+
 
 **Explanation/Figure 1**
 
@@ -64,7 +68,7 @@ The **input variables** are the factors that could potentially influence the lea
 
 The **process** refers to how these input variables interact during the instruction and acquisition of programming knowledge. This involves the **teaching and learning processes** used by the instructors, student **participation in hands-on programming exercises**, and the **interaction between students and teaching assistance**. Through this process, students are able to apply their prior knowledge, develop programming skills, and attempt to overcome difficulties in learning. Hands-on exercises allow students to develop their skills through practice, while instructor assistance and support help students cope with difficulties and maintain their motivation. These classroom interactions influence students’ learning experiences and their perceptions of programming. As part of the process, data are gathered through survey questionnaires and interviews to obtain information on students’ demographic profile, learning experiences, challenges, and motivation in learning programming.
 
-> the **output** is not yet specified because the study is still in the process of gathering data. The output will be specified after the completion of interviews and the analysis of students’ responses. However, the framework argues that the interaction between the input and process variables will provide understanding of students’ motivation in learning programming.
+This **output** is the result of the interaction between the identified input variables and the teaching and learning process. After considering the students’ programming experience, learning difficulties, and classroom learning experiences, and applying appropriate teaching strategies, the outcomes are reflected in the students’ level of motivation and the development of their programming skills.
 
 ---
 
