@@ -364,28 +364,28 @@ Based on the presented finding and conclusions, the following recommendations ar
 
 ---
 
-## **REFFERENCES**
+## **REFERENCES**
 
+#### **Background of the Study**
 
-
-#### **BOS Sources:**
-- IJETI. (n.d.). *Article PDF*. https://www.ijiet.org/vol6/709-T0021.pdf
-- Studocu. (n.d.). *PR Group 1 document*. https://www.studocu.com/ph/document/ama-computer-learning-center/information-system/pr-group-1/97739258
+* International Journal of Emerging Technology and Innovation (IJETI). (n.d.). *Impact of Programming Learning on Students*. [https://www.ijiet.org/vol6/709-T0021.pdf](https://www.ijiet.org/vol6/709-T0021.pdf)
+* Studocu. (n.d.). *PR Group 1 Document*. [https://www.studocu.com/ph/document/ama-computer-learning-center/information-system/pr-group-1/97739258](https://www.studocu.com/ph/document/ama-computer-learning-center/information-system/pr-group-1/97739258)
 
 #### **Foreign Studies**
-- IJETI. (n.d.). *Research article*. https://www.ijiet.org/vol6/709-T0021.pdf  
-- ACM Digital Library. (n.d.). *Conference paper*. https://dl.acm.org/doi/10.1145/3077618  
-- Frontiers in Education. (2022). *Research article*. https://www.frontiersin.org/articles/10.3389/feduc.2022.948783/full  
-- ERIC. (n.d.). *Journal article*. https://files.eric.ed.gov/fulltext/EJ1448912.pdf  
-- Contemporary Educational Technology. (n.d.). *Research study*. https://doi.org/10.30935/cedtech/8247  
+
+* International Journal of Emerging Technology and Innovation (IJETI). (n.d.). *Research Article on Programming Learning*. [https://www.ijiet.org/vol6/709-T0021.pdf](https://www.ijiet.org/vol6/709-T0021.pdf)
+* ACM Digital Library. (n.d.). *Conference Paper on Computing Education*. [https://dl.acm.org/doi/10.1145/3077618](https://dl.acm.org/doi/10.1145/3077618)
+* Frontiers in Education. (2022). *Programming Motivation and Student Engagement*. [https://www.frontiersin.org/articles/10.3389/feduc.2022.948783/full](https://www.frontiersin.org/articles/10.3389/feduc.2022.948783/full)
+* ERIC. (n.d.). *Journal Article on ICT Learning Challenges*. [https://files.eric.ed.gov/fulltext/EJ1448912.pdf](https://files.eric.ed.gov/fulltext/EJ1448912.pdf)
+* Contemporary Educational Technology. (n.d.). *Research Study on Programming Competence*. [https://doi.org/10.30935/cedtech/8247](https://doi.org/10.30935/cedtech/8247)
 
 #### **Local Studies**
-- Scribd. (n.d.). *Chapter 1 research paper*. https://www.scribd.com/document/881677576/CHAPTER-1  
-- Scribd. (n.d.). *Group 4 practical research*. https://www.scribd.com/document/884907445/Group-4-Practical-Research-1-2  
-- Scribd. (n.d.). *Grade 9 programming competence case study*. https://www.scribd.com/document/847572853/Evaluating-Computer-Programming-Competence-of-Selected-Grade-9-Students-A-Case-Study  
-- Studocu. (n.d.). *Practical Research 1*. https://www.studocu.com/ph/document/young-achievers-school-of-caloocan-inc/research/practical-research-1/107949526  
-- Scribd. (n.d.). *Research Group 5*. https://it.scribd.com/document/643893686/Research-Group-5  
 
+* Scribd. (n.d.). *Chapter 1 Research Paper on Programming Competence*. [https://www.scribd.com/document/881677576/CHAPTER-1](https://www.scribd.com/document/881677576/CHAPTER-1)
+* Scribd. (n.d.). *Group 4 Practical Research*. [https://www.scribd.com/document/884907445/Group-4-Practical-Research-1-2](https://www.scribd.com/document/884907445/Group-4-Practical-Research-1-2)
+* Scribd. (n.d.). *Evaluating Computer Programming Competence of Selected Grade-9 Students: A Case Study*. [https://www.scribd.com/document/847572853/Evaluating-Computer-Programming-Competence-of-Selected-Grade-9-Students-A-Case-Study](https://www.scribd.com/document/847572853/Evaluating-Computer-Programming-Competence-of-Selected-Grade-9-Students-A-Case-Study)
+* Studocu. (n.d.). *Practical Research 1: ICT Strand Study*. [https://www.studocu.com/ph/document/young-achievers-school-of-caloocan-inc/research/practical-research-1/107949526](https://www.studocu.com/ph/document/young-achievers-school-of-caloocan-inc/research/practical-research-1/107949526)
+* Scribd. (n.d.). *Research Group 5 Practical Research Document*. [https://it.scribd.com/document/643893686/Research-Group-5](https://it.scribd.com/document/643893686/Research-Group-5)
 ---
 
 ## **APPENDIX A: PERMISSION LETTER**
