@@ -1,5 +1,48 @@
-
 ## **An Exploration of ICT Students’ Learning Experiences in Basic Programming at Senior High Schools Located in Naic**
+
+
+## **APPROVAL SHEET**
+
+This research paper entitled **“An Exploration of ICT Students’ Learning Experiences in Basic Programming at Senior High Schools Located in Naic”**, prepared and submitted by **Jessie John A. Inocentes, Jayden Ralfh B. Dollaga, Klent Dave B. Rollon, and Daniel Quiñones** in partial fulfillment of the requirements for **Practical Research 1**, is hereby recommended for Oral Examination.
+
+<ins>**Ms. Murielle E. Galicia**</ins>
+**Practical Research 1 Adviser**
+
+Approved in partial of the requirements in Practical Research 1
+
+**PANEL OF ORAL DEFENSE**
+
+<ins>**Ms. Murielle E. Galicia**</ins>
+**Panelist**
+
+Accepted in partial fulfillment of the requirement in Practical Research 1
+
+<ins>Mrs. Maria Carla A. Nazareno</ins>
+**Principal**
+
+---
+
+## **ACKNOWLEDGMENT**
+
+The researchers would like to express their sincere gratitude to everyone who supported and guided them in completing this research study. They are especially thankful to their Practical Research teacher for the patience, guidance, and valuable suggestions that helped improve the study and deepen their understanding of the research process.
+
+The researchers are also deeply grateful to their families for their unconditional love, understanding, and continuous encouragement. Their support provided strength and motivation throughout the challenges encountered during the completion of this study.
+
+They would also like to thank their friends and classmates for their moral support and encouragement. Their positivity and belief in the researchers helped them remain focused and determined.
+
+Above all, the researchers thank God for granting them wisdom, patience, and perseverance to successfully complete this study.
+
+**The Researchers**
+
+---
+
+## **ABSTRACT**
+
+---
+
+## **TABLE OF CONTENTS**
+
+---
 
 ## **CHAPTER 1: INTRODUCTION**
 
