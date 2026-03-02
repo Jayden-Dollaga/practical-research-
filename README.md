@@ -159,26 +159,13 @@ An independent variable gives students a lesson on programming, then the teacher
 
 The dependent variable of this study is the motivation of student learning programming.  The student will show his or her motivation through interest, persistence and willingness to engage in tasks related to programming.  Additionally, enhancing students’ motivation may help them become more engaged and learn more in an ICT subject. 
 
-**Input**
-
-* Prior exposure to programming
-* Learning challenges in programming (syntax errors, logic formulation, debugging)
-* Classroom learning experiences (teaching strategies, learning resources, teacher support)
-
-**Process**
-
-* Teaching and learning strategies in programming
-* Student engagement in hands-on programming activities
-* Interaction between students and instructional support
-* Data gathering through survey questionnaires and interviews to assess students’ learning experiences, challenges, and motivation in programming.
-
-**Output**
-
-* Increased student motivation in learning programming
-* Development of positive attitudes toward programming
-* Improved confidence and persistence in solving coding problems
-* Enhanced programming skills (coding, debugging, testing, troubleshooting)
-* Greater interest in pursuing ICT-related careers and projects
+| **Input**                                                                                 | **Process**                                                                                                                                       | **Output**                                                                |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Prior exposure to programming                                                             | Teaching and learning strategies in programming                                                                                                   | Increased student motivation in learning programming                      |
+| Learning challenges in programming (syntax errors, logic formulation, debugging)          | Student engagement in hands-on programming activities                                                                                             | Development of positive attitudes toward programming                      |
+| Classroom learning experiences (teaching strategies, learning resources, teacher support) | Interaction between students and instructional support                                                                                            | Improved confidence and persistence in solving coding problems            |
+|                                                                                           | Data gathering through survey questionnaires and interviews to assess students’ learning experiences, challenges, and motivation in programming.  | Enhanced programming skills (coding, debugging, testing, troubleshooting) |
+|                                                                                           |                                                                                                                                                   | Greater interest in pursuing ICT-related careers and projects             |
 
 
 **Explanation/Figure 1**
