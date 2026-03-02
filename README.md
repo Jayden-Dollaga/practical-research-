@@ -20,19 +20,20 @@ Approved in partial of the requirements in Practical Research 1
 Accepted in partial fulfillment of the requirement in Practical Research 1
 
 <ins>Mrs. Maria Carla A. Nazareno</ins>
+
 **Principal**
 
 ---
 
 ## **ACKNOWLEDGMENT**
 
-The researchers would like to express their sincere gratitude to everyone who supported and guided them in completing this research study. They are especially thankful to their Practical Research teacher for the patience, guidance, and valuable suggestions that helped improve the study and deepen their understanding of the research process.
+The researchers would like to express their sincere gratitude to everyone who supported and guided them in completing this study. They are especially thankful to their practical research teacher for their patience, guidance, and valuable suggestions, all of which helped improve the study and deepen the researchers’ understanding of the research process.
 
-The researchers are also deeply grateful to their families for their unconditional love, understanding, and continuous encouragement. Their support provided strength and motivation throughout the challenges encountered during the completion of this study.
+The researchers are also deeply grateful to their families for their unconditional love, understanding, and continuous encouragement. Their emotional and moral support was a great source of strength and motivation during challenging times, such as when facing pressure, making revisions, and meeting deadlines. The researchers truly appreciate the sacrifices made and the trust placed in them throughout this endeavor.
 
-They would also like to thank their friends and classmates for their moral support and encouragement. Their positivity and belief in the researchers helped them remain focused and determined.
+They would also like to thank their friends and classmates for their support and encouragement. Their positivity and belief in the researchers helped them stay focused and determined.
 
-Above all, the researchers thank God for granting them wisdom, patience, and perseverance to successfully complete this study.
+Above all, the researchers thank God for granting them the wisdom, patience, guidance, and perseverance necessary to successfully complete this study despite the challenges they encountered along the way.
 
 **The Researchers**
 
@@ -40,9 +41,83 @@ Above all, the researchers thank God for granting them wisdom, patience, and per
 
 ## **ABSTRACT**
 
+In today's technology-driven world, programming is an essential skill for students in the Information and Communication Technology (ICT) program. This study examined the learning experiences, challenges, and motivations of ICT students learning basic programming in selected senior high schools in Naic. Specifically, the study sought to understand how students’ experiences influence their engagement and motivation in the subject.
+
+The study employed a qualitative descriptive research design. Fifteen (15) ICT students from three schools were selected through purposive sampling. Semi-structured interviews were conducted to gather detailed insights into the students' experiences. The responses were analyzed using thematic analysis to identify recurring themes and patterns.
+
+The findings revealed that most of the respondents, who were predominantly male and aged 16–19 years old, described programming as engaging and intellectually stimulating, though challenging at times. Students reported difficulty understanding unfamiliar syntax and complex logic, debugging errors, and transitioning from basic to advanced programming concepts. Limited resources and instructional time also contributed to these challenges. Despite these challenges, students developed skills in coding, debugging, testing systems, and performing technical tasks such as troubleshooting and basic network testing.
+
+The study also found that intrinsic and extrinsic factors influenced students’ motivation. Intrinsic motivations included curiosity, enjoyment, creativity, and satisfaction from completing projects. Extrinsic motivations included career goals, financial opportunities, and recognizing programming as a valuable, future-ready skill. Positive classroom experiences, peer support, and the opportunity to apply their skills in the real world significantly strengthened their persistence and engagement.
+
+The study concludes that, while ICT students face various challenges in learning basic programming, meaningful learning experiences, supportive instruction, and practical exposure are vital to sustaining motivation and improving engagement.
+
 ---
 
 ## **TABLE OF CONTENTS**
+
+ ### Preliminary Pages
+
+| Section           | Page |
+| ----------------- | ---- |
+| Title Page        | i    |
+| Approval Sheet    | ii   |
+| Acknowledgment    | iii  |
+| Abstract          | iv   |
+| Table of Contents | vi   |
+
+### Chapter 1: Introduction
+
+| Section                              | Page |
+| ------------------------------------ | ---- |
+| Background of the Study              | 1    |
+| Statement of the Problem             | 3    |
+| Conceptual Framework                 | 3    |
+| Figure 1: Input, Process, and Output | 5    |
+| Importance of the Study              | 6    |
+| Scope and Limitations                | 7    |
+| Definition of Terms                  | 7    |
+| Review of Related Literature         | 9    |
+
+### Chapter 2: Methodology
+
+| Section                   | Page |
+| ------------------------- | ---- |
+| Research Design           | 14   |
+| Population of the Study   | 14   |
+| Sampling Method           | 15   |
+| Data Collection Procedure | 15   |
+
+### Chapter 3: Results and Discussion
+
+| Section                                                                    | Page |
+| -------------------------------------------------------------------------- | ---- |
+| Table 1.1: Demographic Characteristics (Age)                               | 16   |
+| Table 1.2: Demographic Characteristics (Gender)                            | 16   |
+| Table 2: Learning Experiences of ICT Students in Programming               | 17   |
+| Table 3: Challenges Encountered by ICT Students While Learning Programming | 19   |
+| Table 4: Motivation of ICT Students for Learning Programming               | 21   |
+
+### Chapter 4: Summary, Conclusion, and Recommendation
+
+| Section        | Page |
+| -------------- | ---- |
+| Summary        | 27   |
+| Conclusion     | 29   |
+| Recommendation | 31   |
+
+### References
+
+| Section    | Page |
+| ---------- | ---- |
+| References | 33   |
+
+### Appendices
+
+| Section                       | Page |
+| ----------------------------- | ---- |
+| Appendix A: Permission Letter | 35   |
+| Appendix B: Documentation     | 49   |
+
 
 ---
 
