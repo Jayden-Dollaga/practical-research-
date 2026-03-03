@@ -1,9 +1,3 @@
----
-title: 'FINAL OUTPUT IN READING AND WRITING:'
-created: '2026-03-03T12:48:23.549Z'
-modified: '2026-03-03T15:19:13.209Z'
----
-
 # FINAL OUTPUT IN READING AND WRITING:
  * Definition (First page - simply explain/define the academic text assigned to you.)
  * Content (Step-by-step process/methodology how the text is written)
@@ -33,21 +27,9 @@ REPORTING IN READING AND WRITING
 
 
 
-
-
-REPORTING IN READING AND WRITING
-| REPORTERS                    | TOPIC                             |
-| ---------------------------- | --------------------------------- |
-| DOLLAGA, CANATOY             | PROJECT PROPOSAL                  |
-
-
-
-
-Good. We’re not submitting something that sounds copy-pasted from a textbook. We’re making this clean, mature, and actually impressive.
-
 ---
 
-# 📄 FINAL OUTPUT – PROJECT PROPOSAL
+# FINAL OUTPUT – PROJECT PROPOSAL
 
 ---
 
@@ -164,7 +146,7 @@ The Student Tech Workshop Program is a practical and sustainable initiative that
 
 ---
 
-# 🎤 REPORTING SCRIPT (Natural, Confident Version)
+# REPORTING SCRIPT (Natural, Confident Version)
 
 Now here’s your speaking script. This sounds natural, not robotic.
 
@@ -196,6 +178,7 @@ In conclusion, a project proposal is an essential academic document that transfo
 Thank you.
 
 ---
+
 
 
 
