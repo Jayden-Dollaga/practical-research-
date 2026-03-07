@@ -144,40 +144,7 @@ The project is expected to improve students’ digital organization skills, incr
 
 The Student Tech Workshop Program is a practical and sustainable initiative that empowers students with essential digital skills. By equipping learners with structured knowledge and hands-on experience, the project supports academic success in an increasingly technology-driven environment.
 
----
 
-# REPORTING SCRIPT (Natural, Confident Version)
-
-Now here’s your speaking script. This sounds natural, not robotic.
-
----
-
-Good day everyone. Today, we will be discussing the academic text called a Project Proposal.
-
-A project proposal is a formal document that presents a detailed plan for a project before it is carried out. Its purpose is to explain what the project is about, why it is necessary, and how it will be implemented. It is written to gain approval from teachers, institutions, or organizations.
-
-A strong project proposal is not just an idea written on paper. It must clearly show that the project is realistic, organized, and achievable within a specific timeframe and budget.
-
-In writing a project proposal, there are several important parts.
-
-First is the title, which should clearly state the focus of the project.
-Second is the introduction, which gives background information about the topic.
-Third is the statement of the problem, which identifies the issue that needs to be addressed.
-Next are the objectives, which explain what the project aims to achieve.
-The methodology follows, describing the step-by-step process of how the project will be conducted.
-A timeline is included to show the schedule of activities.
-If necessary, a budget is presented to outline expenses.
-Finally, the expected outcomes and conclusion summarize the benefits and importance of the project.
-
-For our sample, we proposed a Student Tech Workshop Program designed to improve digital productivity skills among Grade 10 students. The project includes weekly workshops on file management, productivity software, troubleshooting, and digital organization strategies.
-
-This project aims to enhance students’ efficiency, improve their technical confidence, and support their academic performance.
-
-In conclusion, a project proposal is an essential academic document that transforms ideas into actionable and organized plans. It demonstrates critical thinking, planning ability, and clear communication skills.
-
-Thank you.
-
----
 
 
 
