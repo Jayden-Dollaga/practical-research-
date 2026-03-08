@@ -37,112 +37,107 @@ REPORTING IN READING AND WRITING
 
 ---
 
-## **I. Definition**
+# **I. Definition**
 
-A **project proposal** is a formal academic document that presents a well-structured plan for a specific project before it is implemented. Its main purpose is to explain what the project intends to accomplish, why it is necessary, and how it will be carried out.
+A **project proposal** is a written document that presents a clear and organized plan for a project before it is implemented. It explains what the project is about, the problem it aims to solve, the objectives, and the steps that will be taken to complete the project.
 
-Unlike informal plans, a project proposal is written to gain approval, support, or funding from a teacher, institution, or organization. It demonstrates clarity of purpose, feasibility, and organization. A strong project proposal does not only describe an idea—it proves that the idea is realistic, purposeful, and achievable within a given timeframe and set of resources.
+Project proposals are usually prepared to seek approval or support from teachers, organizations, or institutions. They provide important details such as the purpose of the project, the methods to be used, the resources needed, and the expected results.
 
-In academic writing, a project proposal reflects critical thinking, planning skills, and the ability to present ideas logically and persuasively.
+In academic writing, a project proposal allows students to present their ideas in a logical and organized way. It helps readers understand why the project is important and how it will benefit the people involved.
 
 ---
 
-## **II. Content: Step-by-Step Process in Writing a Project Proposal**
+# **II. Content: Step-by-Step Process in Writing a Project Proposal**
 
-Writing a project proposal follows a systematic structure to ensure clarity and credibility.
+Writing a project proposal follows several important steps to ensure the plan is clear and effective.
 
-### **1. Title**
+### **1. Title of the Project**
 
-The title should clearly reflect the main focus of the project. It must be specific, direct, and informative.
+The title should clearly describe the focus of the project. It must be specific and easy to understand.
 
 ### **2. Introduction**
 
-This section provides background information about the topic. It explains the context of the issue and establishes why the project is relevant.
+The introduction provides background information about the topic. It explains the situation or problem that encouraged the creation of the project.
 
 ### **3. Statement of the Problem**
 
-The problem must be clearly defined. It identifies the gap, issue, or need that the project aims to address.
+This part identifies the issue that needs to be addressed. It explains why the project is necessary.
 
 ### **4. Objectives**
 
-The objectives outline the specific goals of the project. These should be measurable and realistic.
+The objectives describe what the project aims to achieve. These are the goals that the project hopes to accomplish.
 
-### **5. Methodology**
+### **5. Methodology or Procedure**
 
-This section explains how the project will be implemented. It includes:
+The methodology explains how the project will be carried out. This includes the activities, steps, materials, and participants involved in completing the project.
 
-* Activities and procedures
-* Tools or materials needed
-* Target participants
-* Data gathering or evaluation methods
+### **6. Resources Needed**
 
-### **6. Timeline**
+This section lists the materials, tools, people, or budget required to successfully implement the project.
 
-A clear schedule that outlines when each activity will take place.
+### **7. Timeline**
 
-### **7. Budget (if required)**
+The timeline presents the schedule of activities and indicates when each step of the project will take place.
 
-An estimated breakdown of the financial requirements for the project.
+### **8. Expected Results**
 
-### **8. Expected Outcomes**
-
-This describes the anticipated results or impact of the project.
+This section explains the possible outcomes and benefits that the project may bring.
 
 ### **9. Conclusion**
 
-A concise summary that reinforces the importance and feasibility of the project.
+The conclusion summarizes the proposal and emphasizes why the project is important and worth implementing.
 
 ---
 
-## **III. Sample Project Proposal (Tech-Themed)**
+# **III. Sample of a Project Proposal**
 
 ### **Title:**
 
-Improving Digital Productivity Skills Through a Student Tech Workshop Program
+Improving Computer Troubleshooting Skills of CSS Students
 
 ### **Introduction**
 
-In today’s digital environment, students rely heavily on technology for research, communication, and project creation. However, many students lack structured knowledge about digital productivity tools, file management, and basic troubleshooting skills. This project proposes a student-led Tech Workshop Program aimed at improving digital efficiency and responsible technology use among Grade 10 students.
+Computer Systems Servicing (CSS) students are expected to develop strong troubleshooting skills in order to identify and fix common computer problems. However, some students still experience difficulty diagnosing technical issues and applying proper solutions. This project proposal aims to provide a training program that will help students improve their troubleshooting knowledge and practical skills.
 
 ### **Statement of the Problem**
 
-Many students experience difficulties organizing digital files, using productivity software effectively, and maintaining their devices. This often leads to missed deadlines, lost files, and inefficient project workflows.
+Many CSS students lack confidence and experience in identifying and solving computer problems. Because of this, they sometimes struggle when handling technical tasks during laboratory activities.
 
 ### **Objectives**
 
-1. To enhance students’ knowledge of digital productivity tools within two months.
-2. To improve file organization and workflow efficiency among participants.
-3. To promote responsible and effective technology usage in academic tasks.
+The project aims to:
+
+1. Improve the troubleshooting skills of CSS students.
+2. Provide basic training on identifying and solving computer problems.
+3. Help students gain confidence when handling computer issues.
 
 ### **Methodology**
 
-The project will be implemented through a series of structured workshops conducted once a week for four weeks. Each session will focus on a specific topic:
+The project will conduct a short training session focused on basic troubleshooting techniques. Students will participate in demonstrations and hands-on activities where they will practice identifying common computer problems such as hardware connection issues, software errors, and system configuration problems.
 
-* Week 1: File management and cloud storage basics
-* Week 2: Efficient use of word processors and presentation software
-* Week 3: Basic troubleshooting and device maintenance
-* Week 4: Productivity strategies and digital organization systems
-
-Participants will complete practical activities during each session. A short evaluation survey will be conducted at the end of the program to measure improvement.
+The training will also include guided practice where students work in small groups to analyze and solve simulated computer issues.
 
 ### **Timeline**
 
-Week 1–4: Conduct workshops
-Week 5: Evaluation and feedback collection
+Week 1 – Orientation and introduction to troubleshooting
+Week 2 – Demonstration of common computer problems
+Week 3 – Hands-on troubleshooting activities
+Week 4 – Evaluation and feedback
 
-### **Budget**
+### **Resources Needed**
 
-Printing of materials – ₱800
-Workshop materials and certificates – ₱1,200
-Total Estimated Budget – ₱2,000
+Printed learning materials – ₱500
+Basic computer tools – available in the laboratory
+Training materials – ₱500
 
-### **Expected Outcomes**
+### **Expected Results**
 
-The project is expected to improve students’ digital organization skills, increase productivity, and reduce common technical problems encountered during academic tasks.
+After the training program, students are expected to improve their troubleshooting skills and apply the techniques they learned when working with computers. The project will also help increase students’ confidence in handling technical problems.
 
 ### **Conclusion**
 
-The Student Tech Workshop Program is a practical and sustainable initiative that empowers students with essential digital skills. By equipping learners with structured knowledge and hands-on experience, the project supports academic success in an increasingly technology-driven environment.
+Developing strong troubleshooting skills is essential for CSS students. Through this project, students will gain practical knowledge and hands-on experience that will help them become more capable and confident in solving computer-related problems.
+
 
 
 
