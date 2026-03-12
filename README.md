@@ -55,68 +55,41 @@ The study concludes that, while ICT students face various challenges in learning
 
 ## **TABLE OF CONTENTS**
 
- ### Preliminary Pages
-
-| Section           | Page |
-| ----------------- | ---- |
-| Title Page        | i    |
-| Approval Sheet    | ii   |
-| Acknowledgment    | iii  |
-| Abstract          | iv   |
-| Table of Contents | vi   |
-
-### Chapter 1: Introduction
-
-| Section                              | Page |
-| ------------------------------------ | ---- |
-| Background of the Study              | 1    |
-| Statement of the Problem             | 3    |
-| Conceptual Framework                 | 3    |
-| Figure 1: Input, Process, and Output | 5    |
-| Importance of the Study              | 6    |
-| Scope and Limitations                | 7    |
-| Definition of Terms                  | 7    |
-| Review of Related Literature         | 9    |
-
-### Chapter 2: Methodology
-
-| Section                   | Page |
-| ------------------------- | ---- |
-| Research Design           | 14   |
-| Population of the Study   | 14   |
-| Sampling Method           | 15   |
-| Data Collection Procedure | 15   |
-
-### Chapter 3: Results and Discussion
-
-| Section                                                                    | Page |
-| -------------------------------------------------------------------------- | ---- |
-| Table 1.1: Demographic Characteristics (Age)                               | 16   |
-| Table 1.2: Demographic Characteristics (Gender)                            | 16   |
-| Table 2: Learning Experiences of ICT Students in Programming               | 17   |
-| Table 3: Challenges Encountered by ICT Students While Learning Programming | 19   |
-| Table 4: Motivation of ICT Students for Learning Programming               | 21   |
-
-### Chapter 4: Summary, Conclusion, and Recommendation
-
-| Section        | Page |
-| -------------- | ---- |
-| Summary        | 27   |
-| Conclusion     | 29   |
-| Recommendation | 31   |
-
-### References
-
-| Section    | Page |
-| ---------- | ---- |
-| References | 33   |
-
-### Appendices
-
-| Section                       | Page |
-| ----------------------------- | ---- |
-| Appendix A: Permission Letter | 35   |
-| Appendix B: Documentation     | 49   |
+| Section                                                                      | Page |
+| ---------------------------------------------------------------------------- | ---- |
+| Title Page                                                                   | i    |
+| Approval Sheet                                                               | ii   |
+| Acknowledgment                                                               | iii  |
+| Abstract                                                                     | iv   |
+| Table of Contents                                                            | vi   |
+| **CHAPTER 1: INTRODUCTION**                                                  | 1    |
+| Background of the Study                                                      | 1    |
+| Statement of the Problem                                                     | 3    |
+| Conceptual Framework                                                         | 3    |
+| Figure 1                                                                     | 5    |
+| Significance of the Study                                                    | 6    |
+| Scope and Limitations of the Study                                           | 7    |
+| Definition of Terms                                                          | 7    |
+| Review of Related Literature                                                 | 9    |
+| Foreign Studies                                                              | 9    |
+| Local Studies                                                                | 11   |
+| **CHAPTER 2: METHODOLOGY**                                                   | 14   |
+| Research Design                                                              | 14   |
+| Population of the Study                                                      | 14   |
+| Sampling Method                                                              | 15   |
+| Data Collection Procedure                                                    | 15   |
+| **CHAPTER 3: RESULTS & DISCUSSION**                                          | 16   |
+| Table 1.1: Demographic characteristics of the respondents in terms of Age    | 16   |
+| Table 1.2: Demographic characteristics of the respondents in terms of Gender | 16   |
+| Table 3: Challenges ICT students encounter while learning programming        | 19   |
+| Table 4: Motivation of ICT students for learning programming                 | 21   |
+| Table 5: Students’ experience of motivation in learning programming          | 24   |
+| **CHAPTER 4: SUMMARY, CONCLUSIONS, AND RECOMMENDATION**                      | 27   |
+| Summary                                                                      | 27   |
+| Recommendation                                                               | 31   |
+| References                                                                   | 33   |
+| Appendix A: Permission Letter                                                | 35   |
+| Appendix B: Documentation                                                    | 39   |
 
 
 ---
